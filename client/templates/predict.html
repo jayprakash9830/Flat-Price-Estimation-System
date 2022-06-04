@@ -1,0 +1,88 @@
+{% extends 'base.html' %}
+{% block body %}
+<div class="container" >
+
+    <form action="/client/findPrice/" method="post">
+        {% csrf_token %}
+        <div class="form-group mt-3">
+            <label for="area">Enter Area (Sqft)</label>
+            <input type="text" class="form-control" id="area" name="area" placeholder="300" required>
+        </div>
+        <div class="form-group mt-3">
+            <label for="Location">Select Location</label>
+            <select class="form-control" id="Location" name="Location" required>
+                <option selected>Choose...</option>
+                {% for i in msg %}
+                  <option value="{{i}}">{{i}}</option>
+                {% endfor %}
+            </select>
+        </div>
+     
+        <div class="form-group mt-3">
+            <label for="BHK">Select BHK</label>
+            <select class="form-control" id="BHK" name="BHK" required>
+                <option selected>Choose...</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+        </div>
+        <div class="form-group mt-3">
+            <label for="Bathroom">Select Bathroom</label>
+            <select class="form-control" id="Bathroom" name="Bathroom">
+                <option selected>Choose...</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+        </div>
+        <div class="form-group mt-3">
+            <label>Select Parking</label>
+            <div class="form-check form-check-inline">
+
+                <input class="form-check-input" type="radio" name="Parking" id="Parking1"
+                    value="1">
+                <label class="form-check-label" for="Parking1">1</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="Parking" id="Parking2"
+                    value="2">
+                <label class="form-check-label" for="Parking2">2</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="Parking" id="Parking3"
+                    value="3">
+                <label class="form-check-label" for="Parking">3</label>
+            </div>
+
+        </div>
+        <div class="form-group mt-3">
+            <label>What you want?</label>
+            <div class="form-check form-check-inline">
+
+                <input class="form-check-input type" type="radio" name="Type" id="Type1"
+                    value="Furnished">
+                <label class="form-check-label" for="Type1">Furnished</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input type" type="radio" name="Type" id="Type2"
+                    value="Semi-Furnished">
+                <label class="form-check-label" for="Type2">Semi-Furnished</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input type" type="radio" name="Type" id="Type3"
+                    value="Unfurnished">
+                <label class="form-check-label" for="Type3">Unfurnished</label>
+            </div>
+        </div>
+        <div class="text-center">
+        <button type="submit"  style="align-self: center;" class="btn btn-primary ">Submit</button>
+        </div>
+    </form>
+    <h1 style="color:red;text-align: center;"> {{price}}</h1>
+</div>
+{% endblock %}

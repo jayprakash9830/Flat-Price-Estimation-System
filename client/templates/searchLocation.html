@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+{% block body %}
+<div class="container" >
+    <div>
+        <h6>Enter Location Name to know about the data of your Particular Location. For Convinience Check the Name of Location in Drop Down List.  </h6>
+        <h6>Enter Only Root Location, eg. Try To write Rohini instead of Rohini sector 14</h6>
+    </div>
+    <form action="/client/getdata/" method="post">
+        {% csrf_token %}  
+        <div class="form-group mt-3">
+            <label for="Location">Select Location</label>
+            <select class="form-control" id="Location" name="Location" required>
+                <option selected>Choose...</option>
+                {% for i in msg %}
+                  <option value="{{i}}">{{i}}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Type Here</span>
+            <input type="text" class="form-control" name="Locn" required>
+        </div>
+        <div class="text-center">
+            <button type="submit"  style="align-self: center;" class="btn btn-primary ">Submit</button>
+        </div>
+    </form>
+    
+</div>
+{% endblock %}
