@@ -21,5 +21,9 @@ urlpatterns = [
     path('findPrice/',views.findPrice,name="findPrice"),
     path('predict/',views.predict,name="predict"),
     path('searchLocation/',views.searchLocation,name="searchLocation"),
-    path('getdata/',views.getdata,name="getdata")
+    path('getdata/',views.getdata,name="getdata"),
+    path('searchflat/',views.searchflat,name="searchflat"),
+    path('underbudget/',views.underbudget,name="underbudget"),
+    path('findchennaiPrice/',views.findchennaiPrice,name="findchennaiPrice"),
+    path('chennaiPredict/',views.chennaiPredict,name="chennaiPredoct")
 ]

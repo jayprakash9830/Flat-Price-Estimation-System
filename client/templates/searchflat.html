@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block body %}
+<div class="container" >
+    <div>
+        <h6>Enter your budget </h6>
+    </div>
+    <form action="/client/underbudget/" method="post">
+        {% csrf_token %}  
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Enter Your Budget</span>
+            <input type="text" class="form-control" name="price" required>
+        </div>
+        <div class="text-center">
+            <button type="submit"  style="align-self: center;" class="btn btn-primary ">Submit</button>
+        </div>
+    </form>
+    
+</div>
+{% endblock %}

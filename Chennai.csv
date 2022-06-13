@@ -1,0 +1,1593 @@
+,price,area,status,bhk,location,builder,bath
+0,261.0,1548,Ready to move,3,Adyar,other,2.0
+1,278.0,1652,Ready to move,3,Adyar,other,2.0
+2,274.0,1627,Ready to move,3,Adyar,other,2.0
+3,210.0,1381,Under Construction,3,Adyar,seller,3.0
+6,230.0,1755,Under Construction,3,Adyar,HomeFirst,3.0
+7,321.0,2380,Ready to move,3,Adyar,HomeFirst,3.0
+8,517.0,2348,Ready to move,3,Alwarpet,Olympia Group,2.0
+9,545.0,2476,Ready to move,3,Alwarpet,Olympia Group,2.0
+10,612.0,2781,Ready to move,4,Alwarpet,Olympia Group,3.0
+11,597.0,2713,Ready to move,4,Alwarpet,Olympia Group,3.0
+12,481.0,2291,Ready to move,3,Alwarpet,Vinay Asrani,3.0
+13,417.0,1989,Ready to move,3,Alwarpet,Vinay Asrani,3.0
+14,903.0,4302,Ready to move,4,Alwarpet,Vinay Asrani,3.0
+15,903.0,4302,Ready to move,4,Alwarpet,Vinay Asrani,3.0
+16,416.0,2315,Under Construction,3,Alwarpet,seller,3.0
+17,323.0,1850,Under Construction,3,Alwarpet,HomeFirst,3.0
+18,49.0,1028,Ready to move,2,Ambattur,other,2.0
+19,67.0,1195,Ready to move,3,Ambattur,other,2.0
+20,33.0,601,Ready to move,1,Ambattur,other,1.0
+21,79.0,1440,Under Construction,3,Ambattur,seller,3.0
+22,40.44,834,Under Construction,2,Ambattur,seller,2.0
+23,59.17,1220,Under Construction,2,Ambattur,seller,2.0
+24,59.17,1220,Under Construction,2,Ambattur,seller,2.0
+25,37.34,770,Under Construction,2,Ambattur,seller,2.0
+26,37.35,770,Under Construction,2,Ambattur,seller,2.0
+27,40.44,834,Under Construction,2,Ambattur,seller,2.0
+28,42.19,870,Under Construction,2,Ambattur,seller,2.0
+29,37.34,770,Under Construction,2,Ambattur,seller,2.0
+30,41.12,848,Under Construction,2,Ambattur,seller,2.0
+31,37.34,770,Under Construction,2,Ambattur,seller,2.0
+32,80.0,1527,Ready to move,3,Ambattur,ARB HOMES,2.0
+33,53.0,1012,Ready to move,2,Ambattur,ARB HOMES,2.0
+34,42.19,870,Under Construction,2,Ambattur,seller,2.0
+35,37.34,770,Under Construction,2,Ambattur,seller,2.0
+36,42.19,870,Under Construction,2,Ambattur,seller,2.0
+37,37.34,770,Under Construction,2,Ambattur,seller,2.0
+38,42.19,870,Under Construction,2,Ambattur,seller,2.0
+39,37.34,770,Under Construction,2,Ambattur,seller,2.0
+40,40.44,834,Under Construction,2,Ambattur,seller,2.0
+41,41.12,848,Under Construction,2,Ambattur,seller,2.0
+42,42.19,870,Under Construction,2,Ambattur,seller,2.0
+43,37.34,770,Under Construction,2,Ambattur,seller,2.0
+44,40.44,834,Under Construction,2,Ambattur,seller,2.0
+45,240.0,1500,Ready to move,3,Anna Nagar,other,3.0
+46,224.0,1450,Under Construction,3,Anna Nagar,other,2.0
+47,240.0,1500,Under Construction,3,Anna Nagar,other,2.0
+48,158.0,1025,Under Construction,2,Anna Nagar,other,1.0
+49,242.0,1565,Ready to move,3,Anna Nagar,India Builders Limited,2.0
+50,240.0,1500,Under Construction,3,Anna Nagar,other,2.0
+51,240.0,1500,Under Construction,3,Anna Nagar,other,2.0
+52,240.0,1500,Under Construction,3,Anna Nagar,other,2.0
+53,191.0,1235,Under Construction,3,Anna Nagar,other,2.0
+54,221.0,1250,Under Construction,3,Anna Nagar,India Builders Limited,2.0
+55,266.0,1540,Under Construction,3,Anna Nagar,India Builders Limited,2.0
+56,264.0,1500,Under Construction,3,Anna Nagar,India Builders Limited,3.0
+57,220.0,1500,Ready to move,3,Anna Nagar,seller,2.0
+58,230.0,1590,Ready to move,3,Anna Nagar,seller,3.0
+59,320.0,2130,Ready to move,3,Anna Nagar,HomeFirst,3.0
+60,205.0,1283,Ready to move,3,Anna Nagar,HomeFirst,3.0
+61,58.43,1113,Under Construction,2,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,1.0
+62,54.96,1047,Under Construction,2,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,1.0
+63,58.43,1113,Under Construction,2,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,1.0
+64,54.81,1044,Under Construction,2,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,1.0
+65,54.96,1047,Under Construction,2,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,1.0
+66,58.43,1113,Under Construction,2,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,1.0
+67,54.81,1044,Under Construction,2,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,1.0
+68,54.96,1047,Under Construction,2,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,1.0
+69,54.81,1044,Under Construction,2,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,1.0
+70,50.76,967,Under Construction,2,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,1.0
+71,50.76,967,Under Construction,2,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,1.0
+72,58.9,1122,Under Construction,2,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,1.0
+73,58.9,1122,Under Construction,2,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,1.0
+74,57.01,1086,Under Construction,2,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,1.0
+75,57.01,1086,Under Construction,2,Ayanambakkam,AKS Housing Dedvelopment Pvt Ltd,1.0
+76,50.76,1045,Ready to move,2,Chromepet,Doshi Housing,2.0
+77,33.77,866,Under Construction,2,Chromepet,Amarprakash Developers Pvt Ltd,1.0
+78,37.4,770,Ready to move,2,Chromepet,Doshi Housing,1.0
+79,30.99,638,Ready to move,2,Chromepet,Doshi Housing,1.0
+80,59.22,1245,Ready to move,3,Chromepet,Doshi Housing,2.0
+81,43.47,895,Ready to move,2,Chromepet,Doshi Housing,1.0
+82,61.55,1294,Ready to move,3,Chromepet,Doshi Housing,2.0
+83,58.32,1226,Ready to move,3,Chromepet,Doshi Housing,2.0
+84,49.79,1025,Ready to move,2,Chromepet,Doshi Housing,1.0
+85,46.83,964,Ready to move,2,Chromepet,Doshi Housing,1.0
+86,58.84,1237,Ready to move,3,Chromepet,Doshi Housing,2.0
+87,69.92,1470,Ready to move,3,Chromepet,Doshi Housing,3.0
+88,44.64,919,Ready to move,2,Chromepet,Doshi Housing,2.0
+89,63.88,1343,Ready to move,3,Chromepet,Doshi Housing,2.0
+90,60.74,1277,Ready to move,3,Chromepet,Doshi Housing,2.0
+91,44.59,918,Ready to move,2,Chromepet,Doshi Housing,1.0
+92,45.9,945,Ready to move,2,Chromepet,Doshi Housing,1.0
+93,31.38,646,Ready to move,2,Chromepet,Doshi Housing,1.0
+94,59.98,1261,Ready to move,3,Chromepet,Doshi Housing,3.0
+95,63.22,1329,Ready to move,3,Chromepet,Doshi Housing,3.0
+96,56.98,1198,Ready to move,3,Chromepet,Doshi Housing,3.0
+97,47.65,981,Ready to move,2,Chromepet,Doshi Housing,1.0
+101,25.15,645,Under Construction,2,Chromepet,Amarprakash Developers Pvt Ltd,1.0
+103,24.92,639,Under Construction,2,Chromepet,Amarprakash Developers Pvt Ltd,1.0
+104,35.13,901,Under Construction,2,Chromepet,Amarprakash Developers Pvt Ltd,1.0
+105,24.84,637,Under Construction,2,Chromepet,Amarprakash Developers Pvt Ltd,1.0
+107,27.65,709,Under Construction,2,Chromepet,Amarprakash Developers Pvt Ltd,1.0
+108,25.03,642,Under Construction,2,Chromepet,Amarprakash Developers Pvt Ltd,1.0
+110,24.57,630,Under Construction,2,Chromepet,Amarprakash Developers Pvt Ltd,1.0
+111,24.53,629,Under Construction,2,Chromepet,Amarprakash Developers Pvt Ltd,1.0
+112,24.49,628,Under Construction,2,Chromepet,Amarprakash Developers Pvt Ltd,1.0
+114,24.68,633,Under Construction,2,Chromepet,Amarprakash Developers Pvt Ltd,1.0
+115,24.25,622,Under Construction,2,Chromepet,Amarprakash Developers Pvt Ltd,1.0
+116,24.41,626,Under Construction,2,Chromepet,Amarprakash Developers Pvt Ltd,1.0
+117,34.2,877,Under Construction,2,Chromepet,Amarprakash Developers Pvt Ltd,1.0
+118,24.02,616,Under Construction,2,Chromepet,Amarprakash Developers Pvt Ltd,1.0
+119,34.32,880,Under Construction,2,Chromepet,Amarprakash Developers Pvt Ltd,1.0
+120,34.28,879,Under Construction,2,Chromepet,Amarprakash Developers Pvt Ltd,1.0
+121,30.0,690,Ready to move,2,Chromepet,seller,2.0
+122,82.0,1450,Ready to move,2,Chromepet,seller,2.0
+123,110.0,1943,Ready to move,3,Chromepet,MC Foundation,3.0
+124,95.0,1783,Ready to move,3,Chromepet,MC Foundation,3.0
+125,60.02,1225,Ready to move,3,Chromepet,MC Foundation,3.0
+126,53.6,1094,Ready to move,3,Chromepet,MC Foundation,3.0
+127,44.59,910,Ready to move,2,Chromepet,MC Foundation,2.0
+128,40.18,820,Ready to move,2,Chromepet,MC Foundation,2.0
+129,24.47,505,Ready to move,1,Chromepet,MC Foundation,1.0
+130,81.43,1404,Ready to move,3,Chromepet,MC Foundation,3.0
+131,72.96,1258,Ready to move,3,Chromepet,MC Foundation,3.0
+132,59.15,1183,Ready to move,3,Chromepet,MC Foundation,3.0
+133,57.76,996,Ready to move,2,Chromepet,MC Foundation,2.0
+134,47.15,943,Ready to move,2,Chromepet,MC Foundation,2.0
+135,52.2,900,Ready to move,2,Chromepet,MC Foundation,2.0
+136,43.05,861,Ready to move,2,Chromepet,MC Foundation,2.0
+137,25.0,500,Ready to move,1,Chromepet,MC Foundation,1.0
+138,78.0,1300,Ready to move,3,Chromepet,MC Foundation,3.0
+139,68.58,1143,Ready to move,3,Chromepet,MC Foundation,3.0
+140,58.14,969,Ready to move,2,Chromepet,MC Foundation,2.0
+141,47.1,785,Ready to move,2,Chromepet,MC Foundation,2.0
+142,50.0,1050,Ready to move,2,Chromepet,SS PROPERTIES,2.0
+143,45.79,669,Ready to move,2,East Tambaram,VGK Builders Pvt Ltd,1.0
+144,71.28,1004,Under Construction,2,East Tambaram,DAC Promoters,1.0
+145,72.42,1020,Under Construction,2,East Tambaram,DAC Promoters,1.0
+148,77.81,1096,Under Construction,2,East Tambaram,DAC Promoters,1.0
+150,73.48,1035,Under Construction,2,East Tambaram,DAC Promoters,1.0
+151,80.09,1045,Under Construction,2,East Tambaram,The Nest Builder,1.0
+152,47.19,640,Under Construction,1,East Tambaram,The Nest Builder,1.0
+153,82.21,1075,Under Construction,2,East Tambaram,The Nest Builder,1.0
+154,69.1,890,Under Construction,2,East Tambaram,The Nest Builder,1.0
+155,85.05,1115,Under Construction,2,East Tambaram,The Nest Builder,1.0
+156,74.42,965,Under Construction,2,East Tambaram,The Nest Builder,1.0
+157,76.9,1000,Under Construction,2,East Tambaram,The Nest Builder,1.0
+158,54.52,806,Ready to move,2,East Tambaram,VGK Builders Pvt Ltd,1.0
+159,49.77,734,Ready to move,2,East Tambaram,VGK Builders Pvt Ltd,1.0
+160,59.4,882,Ready to move,2,East Tambaram,VGK Builders Pvt Ltd,1.0
+161,87.27,1106,Under Construction,3,East Tambaram,VGK Builders Pvt Ltd,2.0
+162,105.0,1360,Under Construction,4,East Tambaram,VGK Builders Pvt Ltd,3.0
+163,71.68,893,Under Construction,2,East Tambaram,VGK Builders Pvt Ltd,1.0
+164,70.44,876,Under Construction,2,East Tambaram,VGK Builders Pvt Ltd,1.0
+165,79.72,1000,Under Construction,2,East Tambaram,DAC Promoters,1.0
+166,75.04,972,Under Construction,2,East Tambaram,DAC Promoters,1.0
+167,57.35,730,Under Construction,2,East Tambaram,DAC Promoters,1.0
+168,63.27,811,Under Construction,2,East Tambaram,DAC Promoters,1.0
+169,93.27,1171,Under Construction,2,East Tambaram,DAC Promoters,1.0
+170,58.82,750,Under Construction,2,East Tambaram,DAC Promoters,1.0
+172,79.69,1172,Under Construction,2,East Tambaram,other,1.0
+174,83.09,1222,Under Construction,2,East Tambaram,other,1.0
+175,67.87,1305,Under Construction,3,Gerugambakkam,other,2.0
+176,76.2,1480,Under Construction,3,Gerugambakkam,other,2.0
+177,53.07,1005,Under Construction,2,Gerugambakkam,other,1.0
+178,56.64,1069,Under Construction,2,Gerugambakkam,other,1.0
+179,45.0,950,Under Construction,2,Gerugambakkam,seller,2.0
+180,37.0,730,Ready to move,2,Gerugambakkam,R Venkatesan,2.0
+181,58.58,1100,Ready to move,2,Gerugambakkam,R Venkatesan,3.0
+182,54.22,1015,Ready to move,2,Gerugambakkam,R Venkatesan,2.0
+183,44.19,878,Ready to move,2,Gerugambakkam,R Venkatesan,2.0
+184,39.73,790,Ready to move,2,Gerugambakkam,R Venkatesan,2.0
+185,37.8,790,Ready to move,2,Gerugambakkam,other,2.0
+186,85.25,1270,Ready to move,3,Gowrivakkam,The Nest Builder,2.0
+187,37.0,574,Ready to move,1,Gowrivakkam,ARB HOMES,1.0
+188,65.0,1002,Ready to move,2,Gowrivakkam,ARB HOMES,2.0
+189,85.0,1337,Ready to move,3,Gowrivakkam,ARB HOMES,3.0
+190,45.0,1176,Under Construction,2,Guduvancheri,seller,2.0
+191,48.5,1100,Ready to move,2,Guduvancheri,seller,2.0
+192,45.0,1112,Ready to move,2,Guduvancheri,seller,2.0
+193,49.0,1100,Ready to move,2,Guduvancheri,seller,2.0
+194,34.0,956,Ready to move,1,Guduvancheri,Propsource Realty Private Limited,2.0
+195,49.0,1200,Ready to move,2,Guduvancheri,seller,2.0
+196,49.0,1200,Ready to move,2,Guduvancheri,seller,2.0
+197,16.0,480,Ready to move,1,Guduvancheri,ARB HOMES,1.0
+198,38.0,625,Under Construction,2,Guindy,seller,1.0
+199,38.0,625,Under Construction,2,Guindy,seller,1.0
+200,38.0,625,Under Construction,2,Guindy,seller,1.0
+201,38.0,625,Under Construction,2,Guindy,seller,1.0
+202,38.0,625,Under Construction,2,Guindy,seller,1.0
+203,38.0,625,Under Construction,2,Guindy,seller,1.0
+204,260.0,2000,Under Construction,3,Guindy,Propsource Realty Private Limited,3.0
+205,260.0,2000,Under Construction,3,Guindy,Propsource Realty Private Limited,3.0
+206,118.0,1740,Ready to move,3,Iyappanthangal,other,2.0
+207,111.0,1645,Ready to move,3,Iyappanthangal,other,2.0
+208,121.0,1790,Ready to move,3,Iyappanthangal,other,2.0
+209,119.0,1760,Ready to move,3,Iyappanthangal,other,2.0
+210,115.0,1700,Ready to move,3,Iyappanthangal,other,3.0
+211,117.0,1730,Ready to move,3,Iyappanthangal,other,2.0
+212,130.0,1800,Ready to move,3,Iyappanthangal,Prestige Estates Projects Ltd,2.0
+213,139.0,1938,Ready to move,3,Iyappanthangal,Prestige Estates Projects Ltd,2.0
+214,143.0,1990,Ready to move,3,Iyappanthangal,Prestige Estates Projects Ltd,2.0
+215,131.0,1825,Ready to move,3,Iyappanthangal,Prestige Estates Projects Ltd,2.0
+216,46.06,940,Ready to move,2,Iyyappanthangal,HM Homes,2.0
+217,50.22,1025,Ready to move,2,Iyyappanthangal,HM Homes,2.0
+218,43.61,890,Ready to move,2,Iyyappanthangal,HM Homes,2.0
+219,39.93,815,Ready to move,2,Iyyappanthangal,HM Homes,2.0
+220,50.47,1030,Ready to move,2,Iyyappanthangal,HM Homes,2.0
+221,50.47,1030,Ready to move,2,Iyyappanthangal,HM Homes,2.0
+222,42.23,862,Ready to move,2,Iyyappanthangal,HM Homes,2.0
+224,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+225,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+226,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+227,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+228,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+229,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+230,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+231,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+232,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+233,125.0,2350,Ready to move,4,Iyyappanthangal,seller,4.0
+234,125.0,2350,Ready to move,4,Iyyappanthangal,seller,4.0
+235,125.0,2350,Ready to move,4,Iyyappanthangal,seller,4.0
+236,125.0,2350,Ready to move,4,Iyyappanthangal,seller,4.0
+237,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+238,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+239,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+240,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+241,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+242,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+243,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+244,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+245,53.0,942,Ready to move,2,Iyyappanthangal,seller,2.0
+247,33.77,538,Ready to move,1,Karapakkam,Doshi Housing,1.0
+249,66.7,1027,Ready to move,2,Karapakkam,Doshi Housing,1.0
+251,66.5,1024,Ready to move,2,Karapakkam,Doshi Housing,1.0
+252,174.0,2686,Ready to move,4,Karapakkam,Doshi Housing,3.0
+260,171.0,2640,Ready to move,4,Karapakkam,Doshi Housing,3.0
+261,34.46,549,Ready to move,1,Karapakkam,Doshi Housing,1.0
+265,68.0,1024,Ready to move,2,Karapakkam,ARB HOMES,2.0
+266,170.0,2616,Ready to move,4,Karapakkam,ARB HOMES,3.0
+267,68.0,1024,Ready to move,2,Karapakkam,ARB HOMES,2.0
+268,95.0,1564,Ready to move,2,Karapakkam,24K Realtors,3.0
+269,70.0,1024,Ready to move,2,Karapakkam,other,2.0
+270,33.05,1002,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+272,41.0,1243,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+273,40.94,1241,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+274,32.99,1000,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+275,22.96,696,Ready to move,1,Kelambakkam,Advaita Homes,1.0
+276,36.98,1121,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+277,20.88,633,Ready to move,1,Kelambakkam,Advaita Homes,1.0
+279,36.75,1114,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+281,36.09,1094,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+283,32.89,997,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+284,32.52,986,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+285,30.21,916,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+286,26.75,811,Ready to move,1,Kelambakkam,Advaita Homes,1.0
+288,32.26,978,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+290,32.16,975,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+291,25.79,782,Ready to move,1,Kelambakkam,Advaita Homes,1.0
+292,32.39,982,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+293,32.33,980,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+294,25.69,779,Ready to move,1,Kelambakkam,Advaita Homes,1.0
+295,34.4,1043,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+296,34.73,1053,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+297,32.03,971,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+298,31.83,965,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+299,26.65,808,Ready to move,1,Kelambakkam,Advaita Homes,1.0
+300,31.37,951,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+301,29.19,885,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+302,24.84,753,Ready to move,1,Kelambakkam,Advaita Homes,1.0
+304,33.31,1010,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+305,31.14,944,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+306,26.75,811,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+307,33.28,1009,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+308,31.07,942,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+309,37.08,1124,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+310,31.27,948,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+312,33.41,1013,Ready to move,2,Kelambakkam,Advaita Homes,1.0
+313,35.0,840,Ready to move,2,Kelambakkam,seller,2.0
+314,73.0,1737,Ready to move,3,Kelambakkam,seller,3.0
+315,41.0,1250,Ready to move,1,Kelambakkam,Elite nisha,2.0
+316,48.0,1270,Ready to move,2,Kelambakkam,Elite nisha,1.0
+318,58.0,1400,Ready to move,3,Kelambakkam,Elite nisha,3.0
+319,53.0,1550,Ready to move,2,Kelambakkam,Elite nisha,2.0
+320,52.0,1350,Ready to move,2,Kelambakkam,Elite nisha,2.0
+321,46.0,1262,Under Construction,3,Kelambakkam,ARB HOMES,2.0
+322,35.0,994,Under Construction,2,Kelambakkam,ARB HOMES,2.0
+323,36.21,1050,Under Construction,2,Kelambakkam,Dee Star Properties,1.0
+324,34.28,994,Under Construction,2,Kelambakkam,Dee Star Properties,1.0
+325,43.52,1262,Under Construction,3,Kelambakkam,Dee Star Properties,3.0
+326,46.04,1335,Under Construction,3,Kelambakkam,Dee Star Properties,2.0
+327,75.0,1791,Ready to move,3,Kelambakkam,other,3.0
+328,90.46,1508,Ready to move,3,Kolapakkam,Poojaa Foundation,2.0
+329,104.0,1745,Ready to move,3,Kolapakkam,Poojaa Foundation,2.0
+330,104.0,1745,Ready to move,3,Kolapakkam,Poojaa Foundation,2.0
+331,131.0,2185,Ready to move,4,Kolapakkam,Poojaa Foundation,3.0
+332,92.98,1550,Ready to move,3,Kolapakkam,Poojaa Foundation,2.0
+333,91.18,1520,Ready to move,2,Kolapakkam,Poojaa Foundation,1.0
+334,181.0,3024,Ready to move,5,Kolapakkam,Poojaa Foundation,6.0
+335,181.0,3024,Ready to move,5,Kolapakkam,Poojaa Foundation,6.0
+336,97.0,1617,Ready to move,2,Kolapakkam,Poojaa Foundation,1.0
+337,97.0,1617,Ready to move,2,Kolapakkam,Poojaa Foundation,1.0
+338,80.26,1338,Ready to move,2,Kolapakkam,Poojaa Foundation,1.0
+339,80.26,1338,Ready to move,2,Kolapakkam,Poojaa Foundation,1.0
+340,91.18,1520,Ready to move,2,Kolapakkam,Poojaa Foundation,1.0
+341,181.0,3024,Ready to move,5,Kolapakkam,Poojaa Foundation,6.0
+342,181.0,3024,Ready to move,5,Kolapakkam,Poojaa Foundation,6.0
+343,97.0,1617,Ready to move,2,Kolapakkam,Poojaa Foundation,1.0
+344,97.0,1617,Ready to move,2,Kolapakkam,Poojaa Foundation,1.0
+345,80.26,1338,Ready to move,2,Kolapakkam,Poojaa Foundation,1.0
+346,80.26,1338,Ready to move,2,Kolapakkam,Poojaa Foundation,1.0
+349,40.42,825,Ready to move,2,Kolapakkam,HM Homes,2.0
+350,42.14,860,Ready to move,2,Kolapakkam,HM Homes,2.0
+352,70.0,1148,Ready to move,2,Kolapakkam,ARB HOMES,2.0
+353,54.0,893,Ready to move,2,Kolathur,seller,2.0
+354,160.0,2700,Ready to move,4,Kolathur,seller,3.0
+355,55.21,986,Ready to move,2,Kolathur,other,2.0
+356,55.21,986,Ready to move,2,Kolathur,other,2.0
+357,140.0,2200,Ready to move,6,Kolathur,seller,4.0
+358,91.58,1409,Ready to move,3,Kolathur,Selvakumar,2.0
+359,63.89,983,Ready to move,2,Kolathur,Selvakumar,1.0
+360,68.31,1051,Ready to move,2,Kolathur,Selvakumar,1.0
+361,66.36,1021,Ready to move,2,Kolathur,Selvakumar,1.0
+362,64.61,994,Ready to move,2,Kolathur,Selvakumar,1.0
+363,65.65,1010,Ready to move,2,Kolathur,Selvakumar,1.0
+364,82.22,1265,Ready to move,3,Kolathur,Selvakumar,2.0
+365,69.48,1069,Ready to move,2,Kolathur,Selvakumar,1.0
+366,62.59,963,Ready to move,2,Kolathur,Selvakumar,1.0
+367,95.48,1469,Ready to move,3,Kolathur,Selvakumar,2.0
+368,63.96,984,Ready to move,2,Kolathur,Selvakumar,1.0
+369,68.5,1080,Ready to move,2,Kolathur,seller,3.0
+370,68.5,1080,Ready to move,2,Kolathur,seller,3.0
+371,68.5,1080,Ready to move,2,Kolathur,seller,3.0
+372,68.5,1080,Ready to move,2,Kolathur,seller,3.0
+373,68.5,1080,Ready to move,2,Kolathur,seller,3.0
+374,68.5,1080,Ready to move,2,Kolathur,seller,3.0
+375,68.5,1080,Ready to move,2,Kolathur,seller,3.0
+376,68.5,1080,Ready to move,2,Kolathur,seller,3.0
+377,68.5,1080,Ready to move,2,Kolathur,seller,3.0
+378,68.5,1080,Ready to move,2,Kolathur,seller,3.0
+379,68.5,1080,Ready to move,2,Kolathur,seller,3.0
+380,68.5,1080,Ready to move,2,Kolathur,seller,3.0
+381,71.0,1100,Under Construction,3,Kolathur,seller,3.0
+382,72.0,1100,Under Construction,3,Kolathur,seller,3.0
+383,279.0,1571,Under Construction,3,Kotturpuram,Appaswamy Real Estate,2.0
+384,221.0,1245,Under Construction,2,Kotturpuram,Appaswamy Real Estate,1.0
+385,348.0,1976,Under Construction,3,Kotturpuram,Appaswamy Real Estate,2.0
+386,325.0,1842,Under Construction,3,Kotturpuram,Appaswamy Real Estate,2.0
+387,348.0,1979,Under Construction,3,Kotturpuram,Appaswamy Real Estate,2.0
+388,233.0,1313,Under Construction,2,Kotturpuram,Appaswamy Real Estate,1.0
+389,342.0,1951,Under Construction,3,Kotturpuram,Appaswamy Real Estate,2.0
+390,334.0,1894,Under Construction,3,Kotturpuram,Appaswamy Real Estate,2.0
+391,219.0,1233,Under Construction,2,Kotturpuram,Appaswamy Real Estate,1.0
+392,332.0,1877,Under Construction,3,Kotturpuram,Appaswamy Real Estate,2.0
+393,331.0,1874,Under Construction,3,Kotturpuram,Appaswamy Real Estate,2.0
+394,350.0,1987,Under Construction,3,Kotturpuram,Appaswamy Real Estate,2.0
+395,54.75,1020,Ready to move,2,Kovur,R Venkatesan,2.0
+396,38.58,819,Ready to move,2,Kovur,R Venkatesan,2.0
+397,38.23,815,Ready to move,2,Kovur,R Venkatesan,2.0
+398,41.0,874,Ready to move,2,Kovur,R Venkatesan,3.0
+399,38.53,799,Ready to move,2,Kovur,R Venkatesan,2.0
+400,54.0,1000,Ready to move,2,Kovur,other,3.0
+401,55.0,1000,Ready to move,2,Kovur,other,3.0
+402,44.0,938,Ready to move,2,Kovur,other,2.0
+403,36.42,710,Ready to move,1,Kovur,R Venkatesan,2.0
+404,55.0,1020,Ready to move,2,Kovur,R Venkatesan,2.0
+405,46.0,914,Ready to move,2,Kovur,Propsource Realty Private Limited,2.0
+406,73.0,1400,Under Construction,3,Kovur,Propsource Realty Private Limited,3.0
+407,89.23,1373,Under Construction,3,Koyambedu,Luxclusive Homes,2.0
+409,96.64,1487,Under Construction,3,Koyambedu,Luxclusive Homes,2.0
+410,76.81,1182,Under Construction,2,Koyambedu,Luxclusive Homes,1.0
+411,66.61,1025,Under Construction,2,Koyambedu,Luxclusive Homes,1.0
+412,97.09,1494,Under Construction,3,Koyambedu,Luxclusive Homes,2.0
+413,67.13,1033,Under Construction,2,Koyambedu,Luxclusive Homes,1.0
+415,70.7,1088,Under Construction,2,Koyambedu,Luxclusive Homes,1.0
+416,83.51,1285,Under Construction,2,Koyambedu,Luxclusive Homes,1.0
+417,73.43,1130,Under Construction,2,Koyambedu,Luxclusive Homes,1.0
+418,90.14,1387,Under Construction,3,Koyambedu,Luxclusive Homes,2.0
+419,73.24,1127,Under Construction,2,Koyambedu,Luxclusive Homes,1.0
+421,95.34,1467,Under Construction,3,Koyambedu,Luxclusive Homes,2.0
+422,73.5,1131,Under Construction,2,Koyambedu,Luxclusive Homes,1.0
+423,40.09,853,Under Construction,2,Kundrathur,MP Developers,1.0
+424,38.49,819,Under Construction,2,Kundrathur,MP Developers,1.0
+425,38.77,825,Under Construction,2,Kundrathur,MP Developers,1.0
+426,38.72,824,Under Construction,2,Kundrathur,MP Developers,1.0
+427,80.37,1576,Ready to move,3,Kundrathur,MP Developers,2.0
+428,78.89,1547,Ready to move,3,Kundrathur,MP Developers,2.0
+429,80.68,1582,Ready to move,3,Kundrathur,MP Developers,2.0
+430,70.89,1390,Ready to move,3,Kundrathur,MP Developers,2.0
+431,74.15,1454,Ready to move,3,Kundrathur,MP Developers,2.0
+432,70.94,1391,Ready to move,3,Kundrathur,MP Developers,2.0
+433,79.66,1562,Ready to move,3,Kundrathur,MP Developers,2.0
+434,37.5,845,Ready to move,2,Kundrathur,seller,2.0
+435,46.0,800,Ready to move,2,Kundrathur,other,1.0
+436,74.0,1300,Ready to move,3,Madambakkam,MC Foundation,3.0
+437,69.0,1200,Ready to move,2,Madambakkam,MC Foundation,2.0
+439,85.0,1683,Ready to move,3,Madambakkam,MC Foundation,3.0
+440,80.0,1561,Ready to move,3,Madambakkam,MC Foundation,3.0
+441,77.0,1483,Ready to move,3,Madambakkam,MC Foundation,3.0
+442,91.2,1900,Ready to move,3,Madambakkam,MC Foundation,3.0
+443,78.28,1631,Ready to move,3,Madambakkam,MC Foundation,3.0
+444,71.42,1488,Ready to move,3,Madambakkam,MC Foundation,3.0
+445,67.15,1399,Ready to move,3,Madambakkam,MC Foundation,3.0
+446,48.81,1017,Ready to move,2,Madambakkam,MC Foundation,2.0
+447,47.52,990,Ready to move,2,Madambakkam,MC Foundation,2.0
+448,65.61,1238,Ready to move,3,Madambakkam,MC Foundation,3.0
+449,61.85,1167,Ready to move,3,Madambakkam,MC Foundation,3.0
+450,48.81,921,Ready to move,2,Madambakkam,MC Foundation,2.0
+451,46.64,880,Ready to move,2,Madambakkam,MC Foundation,2.0
+452,64.17,1310,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+453,76.47,1561,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+454,81.71,1668,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+455,51.58,1053,Under Construction,2,Madhavaram,Radiance Realty Developers India Ltd,1.0
+456,48.59,992,Under Construction,2,Madhavaram,Radiance Realty Developers India Ltd,1.0
+457,63.34,1293,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+458,76.47,1561,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+459,63.83,1303,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+460,57.41,1172,Under Construction,2,Madhavaram,Radiance Realty Developers India Ltd,1.0
+461,48.74,995,Under Construction,2,Madhavaram,Radiance Realty Developers India Ltd,1.0
+462,62.31,1272,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+463,82.0,1674,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+464,62.7,1280,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+465,74.56,1522,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+466,64.17,1310,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+467,69.66,1422,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+468,48.69,994,Under Construction,2,Madhavaram,Radiance Realty Developers India Ltd,1.0
+469,69.66,1422,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+470,48.69,994,Under Construction,2,Madhavaram,Radiance Realty Developers India Ltd,1.0
+471,48.59,992,Under Construction,2,Madhavaram,Radiance Realty Developers India Ltd,1.0
+472,63.34,1293,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+473,63.83,1303,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+474,57.41,1172,Under Construction,2,Madhavaram,Radiance Realty Developers India Ltd,1.0
+475,48.74,995,Under Construction,2,Madhavaram,Radiance Realty Developers India Ltd,1.0
+476,62.31,1272,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+477,62.7,1280,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+478,63.0,1286,Under Construction,3,Madhavaram,Radiance Realty Developers India Ltd,2.0
+479,49.43,1009,Under Construction,2,Madhavaram,Radiance Realty Developers India Ltd,1.0
+480,51.24,1046,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+481,51.24,1046,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+482,76.86,1569,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+483,76.86,1569,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+484,51.24,1046,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+485,51.24,1046,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+486,76.86,1569,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+487,76.86,1569,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+488,64.17,1310,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+489,64.17,1310,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+490,51.73,1056,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+491,51.73,1056,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+492,51.58,1053,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+493,51.58,1053,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+494,69.66,1422,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+495,69.66,1422,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+496,48.69,994,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+497,48.69,994,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+498,48.59,992,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+499,48.59,992,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+500,63.34,1293,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+501,63.34,1293,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+502,76.47,1561,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+503,76.47,1561,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+504,63.83,1303,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+505,63.83,1303,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+506,57.41,1172,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+507,57.41,1172,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+508,48.74,995,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+509,48.74,995,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+510,81.71,1668,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+511,81.71,1668,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+512,72.01,1470,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+513,72.01,1470,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+514,62.31,1272,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+515,62.31,1272,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+516,82.0,1674,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+517,82.0,1674,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+518,75.54,1542,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+519,75.54,1542,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+520,62.7,1280,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+521,62.7,1280,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+522,63.0,1286,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+523,63.0,1286,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+524,74.56,1522,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+525,74.56,1522,Under Construction,3,Madhavaram,Radiance Realty Developers,2.0
+526,49.43,1009,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+527,49.43,1009,Under Construction,2,Madhavaram,Radiance Realty Developers,1.0
+528,39.5,820,Ready to move,2,Madhavaram,seller,2.0
+529,39.5,820,Ready to move,2,Madhavaram,seller,2.0
+530,80.73,1242,Under Construction,2,Madipakkam,Jones Foundations,1.0
+531,80.32,1208,Ready to move,2,Madipakkam,other,1.0
+535,79.49,1223,Under Construction,2,Madipakkam,Jones Foundations,1.0
+536,84.24,1296,Under Construction,2,Madipakkam,Jones Foundations,1.0
+541,79.3,1220,Under Construction,2,Madipakkam,Jones Foundations,1.0
+544,78.84,1213,Under Construction,2,Madipakkam,Jones Foundations,1.0
+545,77.61,1194,Under Construction,2,Madipakkam,Jones Foundations,1.0
+547,81.57,1255,Under Construction,2,Madipakkam,Jones Foundations,1.0
+548,82.48,1269,Under Construction,2,Madipakkam,Jones Foundations,1.0
+553,72.63,1089,Ready to move,2,Madipakkam,other,1.0
+554,74.25,1114,Ready to move,2,Madipakkam,other,2.0
+559,65.0,919,Ready to move,2,Madipakkam,seller,2.0
+561,51.06,740,Under Construction,2,Madipakkam,other,2.0
+562,58.38,965,Under Construction,1,Madipakkam,Propsource Realty Private Limited,2.0
+563,72.05,1310,Under Construction,3,Medavakkam,other,2.0
+564,51.64,939,Under Construction,2,Medavakkam,other,1.0
+565,59.56,1083,Under Construction,2,Medavakkam,other,1.0
+566,51.59,938,Under Construction,2,Medavakkam,other,1.0
+567,53.62,975,Under Construction,2,Medavakkam,other,1.0
+568,87.45,1590,Under Construction,3,Medavakkam,other,2.0
+569,53.57,974,Under Construction,2,Medavakkam,other,1.0
+570,87.72,1595,Under Construction,3,Medavakkam,other,2.0
+571,55.82,1015,Under Construction,2,Medavakkam,other,1.0
+572,80.68,1467,Under Construction,3,Medavakkam,other,2.0
+573,57.12,985,Under Construction,2,Medavakkam,The Nest Builder,1.0
+574,57.41,990,Under Construction,2,Medavakkam,The Nest Builder,1.0
+575,62.91,1085,Under Construction,2,Medavakkam,The Nest Builder,1.0
+576,56.25,970,Under Construction,2,Medavakkam,The Nest Builder,1.0
+577,56.83,980,Under Construction,2,Medavakkam,The Nest Builder,1.0
+578,49.5,1000,Under Construction,2,Medavakkam,seller,2.0
+579,110.0,1851,Ready to move,3,Medavakkam,smartassetsindia,3.0
+580,50.0,1000,Under Construction,2,Medavakkam,seller,2.0
+581,35.0,750,Ready to move,2,Medavakkam,seller,1.0
+582,35.0,750,Ready to move,2,Medavakkam,seller,1.0
+583,35.0,750,Ready to move,2,Medavakkam,seller,1.0
+584,35.0,750,Ready to move,2,Medavakkam,seller,1.0
+585,35.0,750,Ready to move,2,Medavakkam,seller,1.0
+586,35.0,750,Ready to move,2,Medavakkam,seller,1.0
+587,35.0,750,Ready to move,2,Medavakkam,seller,1.0
+588,35.0,750,Ready to move,2,Medavakkam,seller,1.0
+589,35.0,750,Ready to move,2,Medavakkam,seller,1.0
+590,35.0,750,Ready to move,2,Medavakkam,seller,1.0
+591,35.0,750,Ready to move,2,Medavakkam,seller,1.0
+592,35.0,750,Ready to move,2,Medavakkam,seller,1.0
+594,48.41,931,Ready to move,2,Medavakkam,MC Foundation,2.0
+595,78.0,1300,Ready to move,3,Medavakkam,MC Foundation,3.0
+596,54.06,983,Ready to move,2,Medavakkam,MC Foundation,2.0
+597,47.35,861,Ready to move,2,Medavakkam,MC Foundation,2.0
+598,58.26,971,Ready to move,2,Medavakkam,MC Foundation,2.0
+599,69.35,1261,Ready to move,3,Medavakkam,MC Foundation,3.0
+600,69.35,1261,Ready to move,3,Medavakkam,MC Foundation,3.0
+601,56.04,1019,Ready to move,2,Medavakkam,MC Foundation,2.0
+602,58.26,971,Ready to move,2,Medavakkam,MC Foundation,2.0
+603,78.0,1300,Ready to move,3,Medavakkam,MC Foundation,3.0
+604,54.06,983,Ready to move,2,Medavakkam,MC Foundation,2.0
+605,47.35,861,Ready to move,2,Medavakkam,MC Foundation,2.0
+606,31.2,600,Ready to move,1,Medavakkam,MC Foundation,1.0
+607,68.88,1148,Ready to move,3,Medavakkam,MC Foundation,3.0
+608,53.76,896,Ready to move,2,Medavakkam,MC Foundation,2.0
+610,51.94,999,Ready to move,2,Medavakkam,MC Foundation,2.0
+611,72.71,1322,Ready to move,3,Medavakkam,MC Foundation,3.0
+612,43.68,840,Ready to move,2,Medavakkam,MC Foundation,2.0
+614,64.0,1254,Ready to move,2,Medavakkam,other,2.0
+615,85.62,1427,Ready to move,3,Medavakkam,MC Foundation,3.0
+616,79.02,1317,Ready to move,3,Medavakkam,MC Foundation,3.0
+617,75.24,1254,Ready to move,3,Medavakkam,MC Foundation,3.0
+618,66.96,1116,Ready to move,3,Medavakkam,MC Foundation,3.0
+619,60.0,1000,Ready to move,2,Medavakkam,MC Foundation,2.0
+620,53.16,886,Ready to move,2,Medavakkam,MC Foundation,2.0
+621,45.06,751,Ready to move,2,Medavakkam,MC Foundation,2.0
+622,61.64,1045,Under Construction,2,Medavakkam,other,1.0
+623,75.5,1280,Under Construction,3,Medavakkam,other,2.0
+624,151.0,2225,Under Construction,3,Mogappair,Casagrand Builder Private Limited,2.0
+625,134.0,1974,Under Construction,3,Mogappair,Casagrand Builder Private Limited,2.0
+626,165.0,2433,Under Construction,4,Mogappair,Casagrand Builder Private Limited,3.0
+627,169.0,2495,Under Construction,4,Mogappair,Casagrand Builder Private Limited,3.0
+628,133.0,1962,Under Construction,3,Mogappair,Casagrand Builder Private Limited,2.0
+629,138.0,2211,Under Construction,4,Mogappair,Casagrand Builder Private Limited,2.0
+630,97.57,1668,Under Construction,3,Mogappair,Casagrand Builder Private Limited,2.0
+631,85.99,1470,Under Construction,3,Mogappair,Casagrand Builder Private Limited,2.0
+632,83.86,1342,Under Construction,2,Mogappair,Casagrand Builder Private Limited,1.0
+633,121.0,1947,Under Construction,3,Mogappair,Casagrand Builder Private Limited,2.0
+634,61.48,1051,Under Construction,2,Mogappair,Casagrand Builder Private Limited,2.0
+635,115.0,1849,Under Construction,3,Mogappair,Casagrand Builder Private Limited,2.0
+636,139.0,2228,Under Construction,4,Mogappair,Casagrand Builder Private Limited,3.0
+637,85.17,1363,Under Construction,2,Mogappair,Casagrand Builder Private Limited,1.0
+638,70.02,1197,Under Construction,2,Mogappair,Casagrand Builder Private Limited,2.0
+639,70.0,1499,Ready to move,3,Mogappair,seller,3.0
+640,71.51,1069,Under Construction,2,Mogappair,Propsource Realty Private Limited,2.0
+642,59.29,1078,Under Construction,2,Mugalivakkam,Karuppaswamy Builders,1.0
+643,59.18,1076,Under Construction,2,Mugalivakkam,Karuppaswamy Builders,1.0
+647,59.73,1086,Under Construction,2,Mugalivakkam,Karuppaswamy Builders,1.0
+648,57.86,1052,Under Construction,2,Mugalivakkam,Karuppaswamy Builders,1.0
+649,87.34,1588,Under Construction,3,Mugalivakkam,Karuppaswamy Builders,2.0
+650,62.59,1138,Under Construction,2,Mugalivakkam,Karuppaswamy Builders,1.0
+651,64.02,1164,Under Construction,2,Mugalivakkam,Karuppaswamy Builders,1.0
+652,23.0,500,Ready to move,1,Nanmangalam,MC Foundation,1.0
+653,47.08,961,Ready to move,2,Nanmangalam,MC Foundation,2.0
+654,38.61,788,Ready to move,2,Nanmangalam,MC Foundation,2.0
+655,45.08,980,Ready to move,2,Nanmangalam,MC Foundation,2.0
+656,38.36,834,Ready to move,2,Nanmangalam,MC Foundation,2.0
+657,36.57,795,Ready to move,2,Nanmangalam,MC Foundation,2.0
+658,49.0,1000,Ready to move,2,Nanmangalam,MC Foundation,2.0
+659,43.51,888,Ready to move,2,Nanmangalam,MC Foundation,2.0
+660,41.11,839,Ready to move,2,Nanmangalam,MC Foundation,2.0
+662,58.8,1200,Ready to move,3,Nanmangalam,MC Foundation,3.0
+663,49.0,1000,Ready to move,2,Nanmangalam,MC Foundation,2.0
+664,43.51,888,Ready to move,2,Nanmangalam,MC Foundation,2.0
+667,45.6,950,Under Construction,2,Nanmangalam,other,2.0
+668,40.32,840,Under Construction,2,Nanmangalam,other,2.0
+669,37.68,785,Under Construction,2,Nanmangalam,other,2.0
+670,33.6,700,Under Construction,2,Nanmangalam,other,2.0
+671,113.0,2343,Ready to move,4,Navallur,Olympia Group,4.0
+672,112.0,2323,Ready to move,4,Navallur,Olympia Group,3.0
+673,71.05,1579,Ready to move,3,Navallur,Olympia Group,3.0
+674,115.0,2388,Ready to move,4,Navallur,Olympia Group,3.0
+675,71.01,1578,Ready to move,3,Navallur,Olympia Group,2.0
+676,62.37,1386,Ready to move,3,Navallur,Olympia Group,2.0
+677,70.51,1567,Ready to move,3,Navallur,Olympia Group,2.0
+678,77.0,1560,Ready to move,2,Navallur,seller,2.0
+679,49.0,1110,Ready to move,2,Navallur,Elite nisha,2.0
+680,42.0,979,Under Construction,2,Navallur,ARB HOMES,2.0
+681,42.0,762,Under Construction,2,Navallur,other,2.0
+682,50.21,1152,Ready to move,2,Padur,Pacifica Companies,3.0
+683,50.21,1152,Ready to move,2,Padur,Pacifica Companies,3.0
+684,50.08,1149,Ready to move,2,Padur,Pacifica Companies,1.0
+685,50.08,1149,Ready to move,2,Padur,Pacifica Companies,1.0
+686,49.99,1147,Ready to move,2,Padur,Pacifica Companies,1.0
+687,49.99,1147,Ready to move,2,Padur,Pacifica Companies,1.0
+688,59.33,1361,Ready to move,2,Padur,Pacifica Companies,1.0
+689,59.33,1361,Ready to move,2,Padur,Pacifica Companies,1.0
+690,56.46,1295,Ready to move,2,Padur,Pacifica Companies,1.0
+691,56.46,1295,Ready to move,2,Padur,Pacifica Companies,1.0
+692,54.96,1261,Ready to move,2,Padur,Pacifica Companies,1.0
+693,54.96,1261,Ready to move,2,Padur,Pacifica Companies,1.0
+694,59.16,1357,Ready to move,2,Padur,Pacifica Companies,1.0
+695,59.16,1357,Ready to move,2,Padur,Pacifica Companies,1.0
+696,55.24,1267,Ready to move,2,Padur,Pacifica Companies,1.0
+697,55.24,1267,Ready to move,2,Padur,Pacifica Companies,1.0
+698,55.14,1265,Ready to move,2,Padur,Pacifica Companies,3.0
+699,55.14,1265,Ready to move,2,Padur,Pacifica Companies,3.0
+700,55.05,1263,Ready to move,2,Padur,Pacifica Companies,1.0
+701,55.05,1263,Ready to move,2,Padur,Pacifica Companies,1.0
+702,71.08,1021,Under Construction,2,Pallavaram,Radiance Realty Developers India Ltd,1.0
+704,73.82,1085,Under Construction,2,Pallavaram,Radiance Realty Developers India Ltd,1.0
+705,73.82,1085,Under Construction,2,Pallavaram,Radiance Realty Developers,1.0
+706,73.82,1085,Under Construction,2,Pallavaram,Radiance Realty Developers,1.0
+707,73.82,1085,Under Construction,2,Pallavaram,Radiance Realty Developers,1.0
+708,73.82,1085,Under Construction,2,Pallavaram,Radiance Realty Developers,1.0
+709,71.08,1021,Under Construction,2,Pallavaram,Radiance Realty Developers,1.0
+710,71.08,1021,Under Construction,2,Pallavaram,Radiance Realty Developers,1.0
+711,108.0,1564,Under Construction,3,Pallavaram,Radiance Realty Developers,2.0
+712,108.0,1564,Under Construction,3,Pallavaram,Radiance Realty Developers,2.0
+715,54.03,837,Under Construction,2,Pallavaram,DAC Promoters,1.0
+716,54.39,861,Under Construction,2,Pallavaram,DAC Promoters,1.0
+717,49.44,777,Under Construction,2,Pallavaram,DAC Promoters,1.0
+718,52.42,783,Under Construction,2,Pallavaram,DAC Promoters,1.0
+719,54.57,864,Under Construction,2,Pallavaram,DAC Promoters,1.0
+720,99.9,1350,Under Construction,3,Pallavaram,Propsource Realty Private Limited,3.0
+721,81.4,1122,Under Construction,2,Pallavaram,Propsource Realty Private Limited,2.0
+722,99.9,1350,Under Construction,3,Pallavaram,Propsource Realty Private Limited,3.0
+723,81.4,1122,Under Construction,2,Pallavaram,Propsource Realty Private Limited,2.0
+724,118.0,1600,Under Construction,3,Pallavaram,Propsource Realty Private Limited,3.0
+725,81.4,1122,Under Construction,2,Pallavaram,Propsource Realty Private Limited,2.0
+726,118.0,1600,Under Construction,3,Pallavaram,Propsource Realty Private Limited,3.0
+727,85.0,1300,Ready to move,2,Pallavaram,other,2.0
+728,51.46,919,Under Construction,2,Pammal,Asset Tree Homes,1.0
+729,51.46,919,Under Construction,2,Pammal,Asset Tree Homes,1.0
+730,66.99,1155,Under Construction,3,Pammal,Asset Tree Homes,2.0
+731,49.88,860,Under Construction,2,Pammal,Asset Tree Homes,1.0
+732,46.11,795,Under Construction,2,Pammal,Asset Tree Homes,1.0
+733,48.88,873,Under Construction,2,Pammal,Asset Tree Homes,1.0
+734,74.48,1330,Under Construction,3,Pammal,Asset Tree Homes,2.0
+735,74.48,1330,Under Construction,3,Pammal,Asset Tree Homes,2.0
+736,63.39,1132,Under Construction,3,Pammal,Asset Tree Homes,2.0
+737,63.39,1132,Under Construction,3,Pammal,Asset Tree Homes,2.0
+738,72.85,1301,Under Construction,3,Pammal,Asset Tree Homes,2.0
+739,72.85,1301,Under Construction,3,Pammal,Asset Tree Homes,2.0
+740,66.99,1155,Under Construction,3,Pammal,Asset Tree Homes,2.0
+741,46.11,795,Under Construction,2,Pammal,Asset Tree Homes,1.0
+742,49.88,860,Under Construction,2,Pammal,Asset Tree Homes,1.0
+743,66.99,1155,Under Construction,3,Pammal,Asset Tree Homes,2.0
+744,46.11,795,Under Construction,2,Pammal,Asset Tree Homes,1.0
+745,66.99,1155,Under Construction,3,Pammal,Asset Tree Homes,2.0
+746,49.88,860,Under Construction,2,Pammal,Asset Tree Homes,1.0
+747,46.11,795,Under Construction,2,Pammal,Asset Tree Homes,1.0
+748,67.62,1166,Under Construction,3,Pammal,Asset Tree Homes,2.0
+749,49.88,860,Under Construction,2,Pammal,Asset Tree Homes,1.0
+750,67.62,1166,Under Construction,3,Pammal,Asset Tree Homes,2.0
+751,60.55,1044,Under Construction,3,Pammal,Asset Tree Homes,2.0
+752,60.55,1044,Under Construction,3,Pammal,Asset Tree Homes,2.0
+753,42.28,729,Under Construction,2,Pammal,Asset Tree Homes,1.0
+754,60.55,1044,Under Construction,3,Pammal,Asset Tree Homes,2.0
+755,42.28,729,Under Construction,2,Pammal,Asset Tree Homes,1.0
+756,42.28,729,Under Construction,2,Pammal,Asset Tree Homes,1.0
+757,77.02,1328,Under Construction,3,Pammal,Asset Tree Homes,2.0
+758,77.02,1328,Under Construction,3,Pammal,Asset Tree Homes,2.0
+759,57.59,993,Under Construction,3,Pammal,Asset Tree Homes,2.0
+760,57.59,993,Under Construction,3,Pammal,Asset Tree Homes,2.0
+761,61.88,1067,Under Construction,3,Pammal,Asset Tree Homes,2.0
+762,61.88,1067,Under Construction,3,Pammal,Asset Tree Homes,2.0
+763,47.27,815,Under Construction,2,Pammal,Asset Tree Homes,1.0
+764,47.27,815,Under Construction,2,Pammal,Asset Tree Homes,1.0
+766,40.59,743,Ready to move,2,Pammal,Bharathi Construction,1.0
+767,22.99,430,Ready to move,1,Pammal,Bharathi Construction,1.0
+768,45.03,830,Ready to move,2,Pammal,Bharathi Construction,1.0
+769,35.32,652,Ready to move,2,Pammal,Bharathi Construction,1.0
+770,35.32,652,Ready to move,2,Pammal,Bharathi Construction,1.0
+771,66.05,1216,Ready to move,3,Pammal,Bharathi Construction,2.0
+772,66.05,1216,Ready to move,3,Pammal,Bharathi Construction,2.0
+773,42.3,791,Ready to move,2,Pammal,Bharathi Construction,1.0
+774,42.3,791,Ready to move,2,Pammal,Bharathi Construction,1.0
+775,39.19,729,Ready to move,2,Pammal,Bharathi Construction,1.0
+776,39.19,729,Ready to move,2,Pammal,Bharathi Construction,1.0
+777,53.54,976,Ready to move,2,Pammal,Bharathi Construction,1.0
+778,53.54,976,Ready to move,2,Pammal,Bharathi Construction,1.0
+779,45.72,859,Ready to move,2,Pammal,Bharathi Construction,1.0
+780,45.72,859,Ready to move,2,Pammal,Bharathi Construction,1.0
+781,28.43,546,Ready to move,1,Pammal,Bharathi Construction,1.0
+782,28.43,546,Ready to move,1,Pammal,Bharathi Construction,1.0
+783,43.41,813,Ready to move,2,Pammal,Bharathi Construction,1.0
+784,43.41,813,Ready to move,2,Pammal,Bharathi Construction,1.0
+785,52.36,952,Under Construction,2,Pammal,Bharathi Construction,1.0
+786,39.49,718,Under Construction,2,Pammal,Bharathi Construction,1.0
+787,35.86,652,Under Construction,2,Pammal,Bharathi Construction,1.0
+788,67.1,1220,Under Construction,3,Pammal,Bharathi Construction,2.0
+789,44.0,800,Under Construction,2,Pammal,Bharathi Construction,1.0
+790,56.02,1050,Under Construction,2,Pammal,Bharathi Construction,1.0
+792,55.97,1049,Under Construction,2,Pammal,Bharathi Construction,1.0
+795,62.14,1170,Under Construction,3,Pammal,Bharathi Construction,2.0
+796,44.16,803,Ready to move,2,Pammal,other,1.0
+797,41.58,756,Ready to move,1,Pammal,other,1.0
+798,32.01,582,Ready to move,1,Pammal,other,1.0
+801,25.68,535,Ready to move,1,Pammal,SS PROPERTIES,1.0
+825,90.0,1700,Under Construction,3,Pammal,SS PROPERTIES,3.0
+826,72.0,1300,Ready to move,3,Pammal,SS PROPERTIES,3.0
+827,90.0,1700,Under Construction,3,Pammal,SS PROPERTIES,3.0
+828,40.75,910,Under Construction,2,Perumbakkam,BSCPL Infrastructure Ltd,1.0
+829,47.04,920,Under Construction,2,Perumbakkam,Saradeuz Realty Constructions,2.0
+830,57.0,1240,Under Construction,2,Perumbakkam,Casagrand Builder Private Limited,1.0
+832,62.6,1360,Under Construction,3,Perumbakkam,Casagrand Builder Private Limited,2.0
+833,90.29,1962,Under Construction,3,Perumbakkam,Casagrand Builder Private Limited,3.0
+835,39.75,885,Under Construction,2,Perumbakkam,BSCPL Infrastructure Ltd,1.0
+837,56.98,1315,Under Construction,2,Perumbakkam,BSCPL Infrastructure Ltd,1.0
+838,47.68,1080,Under Construction,2,Perumbakkam,BSCPL Infrastructure Ltd,1.0
+839,51.44,973,Under Construction,2,Perumbakkam,Saradeuz Realty Constructions,2.0
+840,64.59,1244,Under Construction,3,Perumbakkam,Saradeuz Realty Constructions,3.0
+841,59.08,1143,Under Construction,3,Perumbakkam,Saradeuz Realty Constructions,3.0
+842,64.59,1244,Under Construction,3,Perumbakkam,Saradeuz Realty Constructions,3.0
+843,64.59,1244,Under Construction,3,Perumbakkam,Saradeuz Realty Constructions,3.0
+844,59.08,1143,Under Construction,3,Perumbakkam,Saradeuz Realty Constructions,3.0
+845,59.08,1143,Under Construction,3,Perumbakkam,Saradeuz Realty Constructions,3.0
+846,59.41,1150,Under Construction,3,Perumbakkam,Saradeuz Realty Constructions,3.0
+847,59.41,1150,Under Construction,3,Perumbakkam,Saradeuz Realty Constructions,3.0
+848,64.02,1246,Under Construction,3,Perumbakkam,Saradeuz Realty Constructions,3.0
+849,64.02,1246,Under Construction,3,Perumbakkam,Saradeuz Realty Constructions,3.0
+850,58.77,1124,Under Construction,3,Perumbakkam,Saradeuz Realty Constructions,3.0
+851,58.77,1124,Under Construction,3,Perumbakkam,Saradeuz Realty Constructions,3.0
+852,45.0,909,Ready to move,2,Perumbakkam,seller,2.0
+853,41.78,1045,Under Construction,2,Perumbakkam,BSCPL Infrastructure Ltd,1.0
+856,42.18,1055,Under Construction,2,Perumbakkam,BSCPL Infrastructure Ltd,1.0
+860,54.98,1375,Under Construction,2,Perumbakkam,BSCPL Infrastructure Ltd,1.0
+861,40.58,1015,Under Construction,2,Perumbakkam,BSCPL Infrastructure Ltd,1.0
+862,53.58,1340,Under Construction,2,Perumbakkam,BSCPL Infrastructure Ltd,1.0
+863,64.0,1238,Ready to move,3,Perumbakkam,other,2.0
+864,41.52,865,Under Construction,2,Perumbakkam,other,2.0
+865,39.75,885,Under Construction,2,Perumbakkam,HomeFirst,2.0
+867,39.4,788,Ready to move,2,Perumbakkam,MC Foundation,2.0
+868,54.55,1091,Ready to move,3,Perumbakkam,MC Foundation,3.0
+869,48.85,977,Ready to move,2,Perumbakkam,MC Foundation,2.0
+870,70.6,1400,Ready to move,3,Perumbakkam,MC Foundation,3.0
+871,43.15,863,Ready to move,2,Perumbakkam,MC Foundation,2.0
+872,95.0,1900,Ready to move,3,Perumbakkam,MC Foundation,3.0
+873,85.0,1800,Ready to move,3,Perumbakkam,MC Foundation,3.0
+874,37.7,903,Under Construction,2,Perungalathur,Isha Homes,1.0
+875,44.0,1054,Under Construction,2,Perungalathur,Isha Homes,1.0
+876,40.53,971,Under Construction,2,Perungalathur,Isha Homes,1.0
+878,33.19,795,Under Construction,2,Perungalathur,Isha Homes,1.0
+879,48.26,1156,Under Construction,2,Perungalathur,Isha Homes,1.0
+880,36.11,865,Under Construction,2,Perungalathur,Isha Homes,1.0
+881,37.4,896,Under Construction,2,Perungalathur,Isha Homes,1.0
+882,39.78,953,Under Construction,2,Perungalathur,Isha Homes,1.0
+883,32.81,786,Under Construction,2,Perungalathur,Isha Homes,1.0
+885,36.9,884,Under Construction,2,Perungalathur,Isha Homes,1.0
+886,35.77,857,Under Construction,2,Perungalathur,Isha Homes,1.0
+887,32.94,789,Under Construction,2,Perungalathur,Isha Homes,1.0
+888,32.73,784,Under Construction,2,Perungalathur,Isha Homes,1.0
+889,32.69,783,Under Construction,2,Perungalathur,Isha Homes,1.0
+891,33.94,813,Under Construction,2,Perungalathur,Isha Homes,1.0
+892,28.0,502,Ready to move,1,Perungalathur,seller,1.0
+893,96.0,1900,Under Construction,3,Perungalathur,Propsource Realty Private Limited,3.0
+895,77.0,1400,Ready to move,3,Perungalathur,Propsource Realty Private Limited,3.0
+896,65.0,1250,Ready to move,3,Perungalathur,Propsource Realty Private Limited,3.0
+897,77.0,1400,Ready to move,3,Perungalathur,Propsource Realty Private Limited,3.0
+898,62.0,1030,Ready to move,3,Perungalathur,seller,2.0
+899,62.0,1030,Ready to move,3,Perungalathur,seller,2.0
+900,62.0,1030,Ready to move,3,Perungalathur,seller,2.0
+901,62.0,1030,Ready to move,3,Perungalathur,seller,2.0
+902,62.0,1030,Ready to move,3,Perungalathur,seller,2.0
+903,62.0,1030,Ready to move,3,Perungalathur,seller,2.0
+904,62.0,1030,Ready to move,3,Perungalathur,seller,2.0
+905,62.0,1030,Ready to move,3,Perungalathur,seller,2.0
+906,62.0,1030,Ready to move,3,Perungalathur,seller,2.0
+907,62.0,1030,Ready to move,3,Perungalathur,seller,2.0
+908,62.0,1030,Ready to move,3,Perungalathur,seller,2.0
+909,62.0,1030,Ready to move,3,Perungalathur,seller,2.0
+910,62.0,1030,Ready to move,3,Perungalathur,seller,2.0
+911,62.0,1030,Ready to move,3,Perungalathur,seller,2.0
+912,62.0,1030,Ready to move,3,Perungalathur,seller,2.0
+913,62.0,1030,Ready to move,3,Perungalathur,seller,2.0
+914,62.0,1030,Ready to move,3,Perungalathur,seller,2.0
+915,58.0,1030,Ready to move,3,Perungalathur,seller,2.0
+916,69.6,1200,Ready to move,3,Perungalathur,MC Foundation,3.0
+917,60.32,1040,Ready to move,2,Perungalathur,MC Foundation,2.0
+918,54.17,934,Ready to move,2,Perungalathur,MC Foundation,2.0
+919,51.56,889,Ready to move,2,Perungalathur,MC Foundation,2.0
+920,53.0,974,Under Construction,2,Perungalathur,ARB HOMES,2.0
+921,66.0,1366,Under Construction,3,Perungalathur,ARB HOMES,2.0
+922,131.0,1556,Under Construction,2,Perungudi,Appaswamy Real Estate,1.0
+923,251.0,2550,Under Construction,3,Perungudi,Appaswamy Real Estate,2.0
+924,226.0,2288,Under Construction,3,Perungudi,Appaswamy Real Estate,2.0
+925,306.0,3096,Under Construction,4,Perungudi,Appaswamy Real Estate,3.0
+926,223.0,2256,Under Construction,3,Perungudi,Appaswamy Real Estate,2.0
+929,124.0,1477,Under Construction,2,Perungudi,Appaswamy Real Estate,1.0
+931,113.0,1343,Under Construction,2,Perungudi,Appaswamy Real Estate,1.0
+933,321.0,3252,Under Construction,4,Perungudi,Appaswamy Real Estate,3.0
+941,111.0,1311,Under Construction,2,Perungudi,Appaswamy Real Estate,1.0
+942,131.0,1561,Under Construction,2,Perungudi,Appaswamy Real Estate,1.0
+943,240.0,2429,Under Construction,3,Perungudi,Appaswamy Real Estate,2.0
+944,110.0,1317,Under Construction,2,Perungudi,Appaswamy Real Estate,1.0
+945,111.0,1313,Under Construction,2,Perungudi,Appaswamy Real Estate,1.0
+947,134.0,1583,Under Construction,2,Perungudi,Appaswamy Real Estate,1.0
+948,133.0,1577,Under Construction,2,Perungudi,Appaswamy Real Estate,1.0
+949,133.0,1580,Under Construction,2,Perungudi,Appaswamy Real Estate,1.0
+950,236.0,2398,Under Construction,3,Perungudi,Appaswamy Real Estate,2.0
+951,316.0,3210,Under Construction,4,Perungudi,Appaswamy Real Estate,3.0
+956,118.0,1394,Under Construction,2,Perungudi,Appaswamy Real Estate,1.0
+957,117.0,1392,Under Construction,2,Perungudi,Appaswamy Real Estate,1.0
+960,118.0,1398,Under Construction,2,Perungudi,Appaswamy Real Estate,1.0
+962,137.0,1485,Ready to move,3,Perungudi,seller,3.0
+964,101.0,1188,Under Construction,2,Perungudi,24K Realtors,2.0
+965,51.37,598,Under Construction,1,Perungudi,24K Realtors,1.0
+966,138.0,1380,Ready to move,3,Perungudi,Kkk Landmark,3.0
+967,120.0,1200,Ready to move,3,Perungudi,Kkk Landmark,3.0
+968,120.0,1200,Ready to move,3,Perungudi,Kkk Landmark,3.0
+969,130.0,1308,Ready to move,3,Perungudi,Kkk Landmark,3.0
+970,125.0,1250,Ready to move,3,Perungudi,Kkk Landmark,3.0
+971,104.0,1044,Ready to move,2,Perungudi,Kkk Landmark,2.0
+972,106.0,1060,Ready to move,2,Perungudi,Kkk Landmark,2.0
+973,106.0,1062,Ready to move,2,Perungudi,Kkk Landmark,2.0
+974,137.0,1370,Ready to move,3,Perungudi,Kkk Landmark,3.0
+975,126.0,1264,Ready to move,3,Perungudi,Kkk Landmark,3.0
+976,106.0,1065,Ready to move,2,Perungudi,Kkk Landmark,2.0
+977,106.0,1060,Ready to move,2,Perungudi,Kkk Landmark,2.0
+978,137.0,1370,Ready to move,3,Perungudi,Kkk Landmark,3.0
+979,130.0,1308,Ready to move,3,Perungudi,Kkk Landmark,3.0
+980,130.0,1308,Ready to move,3,Perungudi,Kkk Landmark,3.0
+981,120.0,1200,Ready to move,3,Perungudi,Kkk Landmark,3.0
+982,104.0,1044,Ready to move,2,Perungudi,Kkk Landmark,2.0
+983,120.0,1200,Ready to move,3,Perungudi,Kkk Landmark,3.0
+984,138.0,1380,Ready to move,3,Perungudi,Kkk Landmark,3.0
+985,126.0,1264,Ready to move,3,Perungudi,Kkk Landmark,3.0
+986,125.0,1250,Ready to move,3,Perungudi,Kkk Landmark,3.0
+987,125.0,1250,Ready to move,3,Perungudi,Kkk Landmark,3.0
+988,137.0,1370,Ready to move,3,Perungudi,Kkk Landmark,3.0
+989,138.0,1380,Ready to move,3,Perungudi,Kkk Landmark,3.0
+990,130.0,1308,Ready to move,3,Perungudi,Kkk Landmark,3.0
+991,88.39,1637,Ready to move,3,Poonamallee,Poojaa Foundation,2.0
+992,79.54,1473,Ready to move,3,Poonamallee,Poojaa Foundation,2.0
+993,54.1,1002,Ready to move,2,Poonamallee,Poojaa Foundation,2.0
+994,76.57,1418,Ready to move,3,Poonamallee,Poojaa Foundation,2.0
+995,79.54,1473,Ready to move,3,Poonamallee,Poojaa Foundation,2.0
+996,54.1,1002,Ready to move,2,Poonamallee,Poojaa Foundation,2.0
+997,76.57,1418,Ready to move,3,Poonamallee,Poojaa Foundation,2.0
+998,52.43,971,Ready to move,2,Poonamallee,Poojaa Foundation,1.0
+999,76.68,1420,Ready to move,3,Poonamallee,Poojaa Foundation,3.0
+1000,53.89,998,Ready to move,2,Poonamallee,Poojaa Foundation,1.0
+1001,53.83,997,Ready to move,2,Poonamallee,Poojaa Foundation,1.0
+1002,88.23,1634,Ready to move,3,Poonamallee,Poojaa Foundation,3.0
+1003,53.83,997,Ready to move,2,Poonamallee,Poojaa Foundation,1.0
+1006,69.47,965,Under Construction,2,Porur,Urban Tree Infrastructures,1.0
+1007,78.71,1212,Under Construction,2,Porur,other,1.0
+1008,66.44,923,Under Construction,2,Porur,Urban Tree Infrastructures,2.0
+1009,92.65,1287,Under Construction,3,Porur,Urban Tree Infrastructures,2.0
+1010,78.1,1085,Under Construction,3,Porur,Urban Tree Infrastructures,3.0
+1011,73.93,1027,Under Construction,2,Porur,Urban Tree Infrastructures,1.0
+1012,69.9,971,Under Construction,2,Porur,Urban Tree Infrastructures,1.0
+1013,69.54,966,Under Construction,2,Porur,Urban Tree Infrastructures,1.0
+1015,62.09,956,Under Construction,2,Porur,other,1.0
+1017,81.05,1248,Under Construction,2,Porur,other,1.0
+1018,61.37,945,Under Construction,2,Porur,other,1.0
+1019,70.99,1093,Under Construction,2,Porur,other,1.0
+1020,61.18,942,Under Construction,2,Porur,other,1.0
+1021,79.43,1223,Under Construction,2,Porur,other,1.0
+1023,85.0,1071,Ready to move,2,Porur,seller,2.0
+1024,85.0,1071,Ready to move,2,Porur,seller,2.0
+1025,69.47,965,Under Construction,2,Porur,ARB HOMES,1.0
+1026,66.44,923,Under Construction,2,Porur,ARB HOMES,2.0
+1027,92.65,1287,Under Construction,3,Porur,ARB HOMES,2.0
+1028,78.1,1085,Under Construction,3,Porur,ARB HOMES,3.0
+1029,73.93,1027,Under Construction,2,Porur,ARB HOMES,1.0
+1030,69.9,971,Under Construction,2,Porur,ARB HOMES,1.0
+1031,69.54,966,Under Construction,2,Porur,ARB HOMES,1.0
+1032,66.0,950,Under Construction,2,Porur,ARB HOMES,2.0
+1033,64.0,959,Under Construction,2,Porur,ARB HOMES,2.0
+1034,76.0,1085,Under Construction,3,Porur,other,3.0
+1035,40.08,835,Ready to move,2,Pozhichalur,Sandhya,1.0
+1036,40.22,838,Ready to move,2,Pozhichalur,Sandhya,1.0
+1037,32.3,673,Ready to move,2,Pozhichalur,Sandhya,1.0
+1038,24.09,502,Under Construction,1,Pozhichalur,Sandhya,1.0
+1039,33.93,707,Under Construction,2,Pozhichalur,Sandhya,1.0
+1040,22.84,476,Under Construction,1,Pozhichalur,Sandhya,1.0
+1041,35.85,747,Under Construction,2,Pozhichalur,Sandhya,1.0
+1042,50.49,1020,Under Construction,3,Pozhichalur,Individual Agent,2.0
+1043,29.7,600,Under Construction,1,Pozhichalur,Individual Agent,1.0
+1044,40.34,815,Under Construction,2,Pozhichalur,Individual Agent,1.0
+1045,46.03,930,Under Construction,2,Pozhichalur,Individual Agent,1.0
+1046,49.5,1000,Under Construction,3,Pozhichalur,Individual Agent,2.0
+1047,34.15,690,Under Construction,2,Pozhichalur,Individual Agent,1.0
+1048,48.26,975,Under Construction,2,Pozhichalur,Individual Agent,1.0
+1049,39.6,800,Under Construction,2,Pozhichalur,Individual Agent,1.0
+1050,43.0,799,Ready to move,2,Rajakilpakkam,seller,2.0
+1051,95.0,1700,Ready to move,3,Rajakilpakkam,MC Foundation,3.0
+1052,78.4,1400,Ready to move,3,Rajakilpakkam,MC Foundation,3.0
+1053,72.8,1300,Ready to move,3,Rajakilpakkam,MC Foundation,3.0
+1054,66.58,1189,Ready to move,3,Rajakilpakkam,MC Foundation,3.0
+1055,57.34,1024,Ready to move,2,Rajakilpakkam,MC Foundation,2.0
+1056,53.98,964,Ready to move,2,Rajakilpakkam,MC Foundation,2.0
+1057,46.25,826,Ready to move,2,Rajakilpakkam,MC Foundation,2.0
+1058,43.96,785,Ready to move,2,Rajakilpakkam,MC Foundation,2.0
+1062,48.2,964,Ready to move,2,Rajakilpakkam,MC Foundation,2.0
+1063,45.0,900,Ready to move,2,Rajakilpakkam,MC Foundation,2.0
+1064,40.6,812,Ready to move,2,Rajakilpakkam,MC Foundation,2.0
+1065,168.0,994,Under Construction,2,Royapettah,MEHTA REAL ESTATE CHENNAI LLP,2.0
+1066,168.0,994,Ready to move,2,Royapettah,MEHTA REAL ESTATE CHENNAI LLP,2.0
+1067,230.0,1440,Ready to move,3,Royapettah,MEHTA REAL ESTATE CHENNAI LLP,3.0
+1068,385.0,2336,Ready to move,3,Royapettah,MEHTA REAL ESTATE CHENNAI LLP,3.0
+1069,903.0,4200,Ready to move,3,Royapettah,Vinay Asrani,2.0
+1070,636.0,2961,Ready to move,3,Royapettah,Vinay Asrani,2.0
+1071,635.0,2958,Ready to move,3,Royapettah,Vinay Asrani,2.0
+1072,636.0,2960,Ready to move,4,Royapettah,Vinay Asrani,3.0
+1073,635.0,2957,Ready to move,4,Royapettah,Vinay Asrani,3.0
+1074,1397.0,6500,Ready to move,5,Royapettah,Vinay Asrani,6.0
+1075,645.0,3000,Ready to move,3,Royapettah,Vinay Asrani,2.0
+1076,838.0,3899,Ready to move,3,Royapettah,Vinay Asrani,2.0
+1077,674.0,3135,Ready to move,3,Royapettah,Vinay Asrani,3.0
+1078,114.0,600,Ready to move,1,Royapettah,Vinay Asrani,1.0
+1079,636.0,2959,Ready to move,4,Royapettah,Vinay Asrani,3.0
+1080,832.0,3874,Ready to move,3,Royapettah,Vinay Asrani,2.0
+1081,1397.0,6498,Ready to move,5,Royapettah,Vinay Asrani,6.0
+1082,817.0,3800,Ready to move,3,Royapettah,Vinay Asrani,2.0
+1083,1422.0,6617,Ready to move,5,Royapettah,Vinay Asrani,6.0
+1084,674.0,3139,Ready to move,4,Royapettah,Vinay Asrani,3.0
+1085,101.0,1760,Under Construction,3,Selaiyur,DAC Promoters,2.0
+1086,175.0,2544,Under Construction,4,Selaiyur,DAC Promoters,3.0
+1087,67.32,1030,Ready to move,2,Selaiyur,other,1.0
+1088,67.32,1030,Ready to move,2,Selaiyur,other,1.0
+1089,79.71,1226,Ready to move,3,Selaiyur,other,2.0
+1090,79.71,1226,Ready to move,3,Selaiyur,other,2.0
+1091,67.32,1030,Ready to move,2,Selaiyur,other,1.0
+1092,67.32,1030,Ready to move,2,Selaiyur,other,1.0
+1093,79.71,1226,Ready to move,3,Selaiyur,other,2.0
+1094,79.71,1226,Ready to move,3,Selaiyur,other,2.0
+1096,43.48,906,Ready to move,2,Selaiyur,MC Foundation,2.0
+1097,40.27,839,Ready to move,2,Selaiyur,MC Foundation,2.0
+1121,48.87,905,Ready to move,2,Selaiyur,MC Foundation,2.0
+1122,46.54,862,Ready to move,2,Selaiyur,MC Foundation,2.0
+1123,41.52,769,Ready to move,2,Selaiyur,MC Foundation,2.0
+1124,39.26,818,Ready to move,2,Selaiyur,MC Foundation,2.0
+1125,73.6,1269,Ready to move,3,Selaiyur,MC Foundation,3.0
+1126,69.07,1191,Ready to move,3,Selaiyur,MC Foundation,3.0
+1127,62.06,1070,Ready to move,2,Selaiyur,MC Foundation,2.0
+1128,57.71,995,Ready to move,2,Selaiyur,MC Foundation,2.0
+1129,55.85,963,Ready to move,2,Selaiyur,MC Foundation,2.0
+1130,51.85,894,Ready to move,2,Selaiyur,MC Foundation,2.0
+1131,47.56,820,Ready to move,2,Selaiyur,MC Foundation,2.0
+1134,28.35,525,Ready to move,1,Selaiyur,MC Foundation,1.0
+1135,72.0,1218,Under Construction,3,Sembakkam,seller,3.0
+1136,52.5,960,Ready to move,2,Sembakkam,Individual Agent,1.0
+1137,44.0,800,Ready to move,2,Sembakkam,Individual Agent,1.0
+1138,27.5,586,Ready to move,1,Sembakkam,seller,1.0
+1139,28.0,586,Ready to move,1,Sembakkam,seller,1.0
+1140,28.0,586,Ready to move,1,Sembakkam,seller,1.0
+1141,28.0,586,Ready to move,1,Sembakkam,seller,1.0
+1142,28.0,586,Ready to move,1,Sembakkam,seller,1.0
+1143,28.0,586,Ready to move,1,Sembakkam,seller,1.0
+1144,28.0,586,Ready to move,1,Sembakkam,seller,1.0
+1145,28.0,586,Ready to move,1,Sembakkam,seller,1.0
+1146,28.0,586,Ready to move,1,Sembakkam,seller,1.0
+1147,28.0,586,Ready to move,1,Sembakkam,seller,1.0
+1148,28.0,586,Ready to move,1,Sembakkam,seller,1.0
+1149,28.0,586,Ready to move,1,Sembakkam,seller,1.0
+1150,28.0,586,Ready to move,1,Sembakkam,seller,1.0
+1151,28.0,586,Ready to move,1,Sembakkam,seller,1.0
+1152,28.0,586,Ready to move,1,Sembakkam,seller,1.0
+1154,39.5,809,Ready to move,2,Sembakkam,seller,2.0
+1155,39.5,809,Ready to move,2,Sembakkam,seller,2.0
+1156,39.5,809,Ready to move,2,Sembakkam,seller,2.0
+1157,39.5,809,Ready to move,2,Sembakkam,seller,2.0
+1158,39.5,809,Ready to move,2,Sembakkam,seller,2.0
+1159,56.1,1020,Under Construction,3,Sembakkam,Individual Agent,2.0
+1160,60.5,1100,Under Construction,3,Sembakkam,Individual Agent,2.0
+1161,64.78,1117,Ready to move,3,Sembakkam,MC Foundation,3.0
+1162,81.2,1400,Ready to move,3,Sembakkam,MC Foundation,3.0
+1163,81.2,1400,Ready to move,3,Sembakkam,MC Foundation,3.0
+1164,74.87,1291,Ready to move,3,Sembakkam,MC Foundation,3.0
+1165,52.2,900,Ready to move,2,Sembakkam,MC Foundation,2.0
+1166,64.78,1117,Ready to move,3,Sembakkam,MC Foundation,3.0
+1167,120.0,2000,Ready to move,3,Sembakkam,MC Foundation,3.0
+1168,100.0,1821,Ready to move,3,Sembakkam,MC Foundation,3.0
+1169,95.0,1783,Ready to move,3,Sembakkam,MC Foundation,3.0
+1170,90.0,1624,Ready to move,3,Sembakkam,MC Foundation,3.0
+1171,140.0,2200,Under Construction,4,Sembakkam,MC Foundation,4.0
+1172,73.37,1249,Ready to move,3,Sembakkam,MC Foundation,3.0
+1173,69.26,1179,Ready to move,3,Sembakkam,MC Foundation,3.0
+1174,57.75,983,Ready to move,2,Sembakkam,MC Foundation,2.0
+1175,47.94,861,Ready to move,2,Sembakkam,MC Foundation,2.0
+1176,54.3,905,Ready to move,2,Sembakkam,MC Foundation,2.0
+1177,50.1,835,Ready to move,2,Sembakkam,MC Foundation,2.0
+1180,51.01,981,Ready to move,2,Sembakkam,MC Foundation,2.0
+1181,48.41,931,Ready to move,2,Sembakkam,MC Foundation,2.0
+1182,44.25,851,Ready to move,2,Sembakkam,MC Foundation,2.0
+1183,41.6,800,Ready to move,2,Sembakkam,MC Foundation,2.0
+1184,27.6,600,Under Construction,2,Semmancheri,other,2.0
+1185,27.6,600,Under Construction,2,Semmancheri,other,2.0
+1186,34.0,700,Under Construction,2,Semmancheri,other,2.0
+1187,39.0,800,Under Construction,2,Semmancheri,seller,2.0
+1188,47.0,1060,Ready to move,2,Semmancheri,Elite nisha,2.0
+1189,46.0,1200,Ready to move,1,Semmancheri,Elite nisha,2.0
+1190,77.35,1645,Ready to move,3,Semmancheri,ARB HOMES,2.0
+1193,62.75,1004,Under Construction,2,Sholinganallur,Grandstyle constructions,1.0
+1196,62.75,1004,Under Construction,2,Sholinganallur,Grandstyle constructions,1.0
+1203,48.64,885,Under Construction,2,Sholinganallur,other,1.0
+1205,48.88,890,Under Construction,2,Sholinganallur,other,1.0
+1206,47.43,860,Under Construction,2,Sholinganallur,other,1.0
+1207,46.95,850,Under Construction,2,Sholinganallur,other,1.0
+1208,47.67,865,Under Construction,2,Sholinganallur,other,1.0
+1210,138.0,2525,Ready to move,4,Sholinganallur,Appaswamy Real Estate,3.0
+1211,75.07,1365,Ready to move,2,Sholinganallur,Appaswamy Real Estate,1.0
+1212,68.86,1252,Ready to move,2,Sholinganallur,Appaswamy Real Estate,1.0
+1214,74.58,1356,Ready to move,2,Sholinganallur,Appaswamy Real Estate,1.0
+1216,64.4,1171,Ready to move,2,Sholinganallur,Appaswamy Real Estate,1.0
+1218,77.11,1402,Ready to move,2,Sholinganallur,Appaswamy Real Estate,1.0
+1219,80.19,1458,Ready to move,2,Sholinganallur,Appaswamy Real Estate,1.0
+1220,70.67,1285,Ready to move,2,Sholinganallur,Appaswamy Real Estate,1.0
+1221,141.0,2580,Ready to move,4,Sholinganallur,Appaswamy Real Estate,3.0
+1225,80.79,1469,Ready to move,2,Sholinganallur,Appaswamy Real Estate,1.0
+1226,69.52,1264,Ready to move,2,Sholinganallur,Appaswamy Real Estate,1.0
+1227,65.89,1198,Ready to move,2,Sholinganallur,Appaswamy Real Estate,1.0
+1228,63.18,1011,Under Construction,2,Sholinganallur,Grandstyle constructions,1.0
+1229,63.18,1011,Under Construction,2,Sholinganallur,Grandstyle constructions,1.0
+1230,54.81,877,Under Construction,2,Sholinganallur,Grandstyle constructions,1.0
+1231,54.81,877,Under Construction,2,Sholinganallur,Grandstyle constructions,1.0
+1232,62.75,1004,Under Construction,2,Sholinganallur,Grandstyle constructions,1.0
+1233,63.18,1011,Under Construction,2,Sholinganallur,Grandstyle constructions,1.0
+1234,62.75,1004,Under Construction,2,Sholinganallur,Grandstyle constructions,1.0
+1235,54.81,877,Under Construction,2,Sholinganallur,Grandstyle constructions,1.0
+1236,63.18,1011,Under Construction,2,Sholinganallur,Grandstyle constructions,1.0
+1237,57.87,926,Under Construction,2,Sholinganallur,Grandstyle constructions,1.0
+1238,54.81,877,Under Construction,2,Sholinganallur,Grandstyle constructions,1.0
+1239,57.87,926,Under Construction,2,Sholinganallur,Grandstyle constructions,1.0
+1240,63.1,1242,Under Construction,2,Sholinganallur,Prestige Estates Projects Ltd,2.0
+1241,63.1,1242,Under Construction,2,Sholinganallur,Prestige Estates Projects Ltd,2.0
+1242,33.71,604,Under Construction,1,Sholinganallur,Prestige Estates Projects Ltd,1.0
+1243,33.66,603,Under Construction,1,Sholinganallur,Prestige Estates Projects Ltd,1.0
+1244,63.51,1250,Under Construction,2,Sholinganallur,Prestige Estates Projects Ltd,2.0
+1245,63.3,1246,Under Construction,2,Sholinganallur,Prestige Estates Projects Ltd,2.0
+1246,33.77,605,Under Construction,1,Sholinganallur,Prestige Estates Projects Ltd,1.0
+1247,33.44,599,Under Construction,1,Sholinganallur,Prestige Estates Projects Ltd,1.0
+1248,33.6,602,Under Construction,1,Sholinganallur,Prestige Estates Projects Ltd,1.0
+1250,62.85,1237,Under Construction,2,Sholinganallur,Prestige Estates Projects Ltd,2.0
+1252,77.54,1468,Under Construction,2,Sholinganallur,Prestige Estates Projects Ltd,1.0
+1253,70.2,1329,Under Construction,2,Sholinganallur,Prestige Estates Projects Ltd,2.0
+1255,68.64,1351,Under Construction,2,Sholinganallur,Prestige Estates Projects Ltd,2.0
+1265,65.28,1285,Under Construction,2,Sholinganallur,Prestige Estates Projects Ltd,1.0
+1266,63.96,1259,Under Construction,2,Sholinganallur,Prestige Estates Projects Ltd,2.0
+1267,64.52,1270,Under Construction,2,Sholinganallur,Prestige Estates Projects Ltd,2.0
+1268,64.47,1269,Under Construction,2,Sholinganallur,Prestige Estates Projects Ltd,1.0
+1271,56.0,1258,Ready to move,2,Sholinganallur,other,2.0
+1272,109.0,1708,Under Construction,3,Sholinganallur,Propsource Realty Private Limited,3.0
+1273,49.0,919,Ready to move,2,Sholinganallur,seller,2.0
+1274,80.0,1237,Under Construction,2,Sholinganallur,ARB HOMES,2.0
+1275,97.0,1598,Under Construction,3,Sholinganallur,ARB HOMES,2.0
+1277,64.25,1737,Ready to move,3,Siruseri,Appaswamy Real Estate,2.0
+1278,60.66,1640,Ready to move,3,Siruseri,Appaswamy Real Estate,2.0
+1279,57.22,1547,Ready to move,3,Siruseri,Appaswamy Real Estate,2.0
+1280,58.59,1584,Ready to move,3,Siruseri,Appaswamy Real Estate,2.0
+1281,55.0,1487,Ready to move,3,Siruseri,Appaswamy Real Estate,2.0
+1282,58.85,1591,Ready to move,3,Siruseri,Appaswamy Real Estate,2.0
+1283,27.0,600,Under Construction,2,Siruseri,seller,4.0
+1284,39.88,1040,Under Construction,3,Siruseri,other,2.0
+1285,62.0,1295,Ready to move,2,Siruseri,seller,2.0
+1286,74.47,1655,Ready to move,3,Siruseri,Propsource Realty Private Limited,3.0
+1287,40.0,930,Under Construction,2,Siruseri,ARB HOMES,2.0
+1288,23.03,510,Under Construction,1,Siruseri,Dee Star Properties,1.0
+1289,35.02,824,Under Construction,2,Siruseri,Dee Star Properties,1.0
+1290,15.04,338,Under Construction,1,Siruseri,Dee Star Properties,1.0
+1291,32.98,764,Under Construction,2,Siruseri,Dee Star Properties,1.0
+1293,64.08,1250,Under Construction,3,Sithalapakkam,The Nest Builder,2.0
+1294,54.14,1050,Under Construction,2,Sithalapakkam,The Nest Builder,1.0
+1296,39.49,800,Under Construction,2,Sithalapakkam,The Nest Builder,1.0
+1297,53.45,1035,Under Construction,2,Sithalapakkam,The Nest Builder,1.0
+1298,29.72,625,Under Construction,1,Sithalapakkam,The Nest Builder,1.0
+1300,31.28,660,Under Construction,1,Sithalapakkam,The Nest Builder,1.0
+1301,55.74,1085,Under Construction,2,Sithalapakkam,The Nest Builder,1.0
+1302,65.45,1280,Under Construction,2,Sithalapakkam,The Nest Builder,1.0
+1303,29.27,615,Under Construction,1,Sithalapakkam,The Nest Builder,1.0
+1304,54.59,1060,Under Construction,2,Sithalapakkam,The Nest Builder,1.0
+1305,52.54,1015,Under Construction,2,Sithalapakkam,The Nest Builder,1.0
+1306,30.61,645,Under Construction,1,Sithalapakkam,The Nest Builder,1.0
+1307,54.82,1065,Under Construction,2,Sithalapakkam,The Nest Builder,1.0
+1308,455.0,2601,Under Construction,4,T Nagar,other,3.0
+1309,644.0,3681,Under Construction,4,T Nagar,other,4.0
+1310,295.0,1520,Under Construction,3,T Nagar,India Builders Limited,2.0
+1313,362.0,2133,Under Construction,2,T Nagar,Propsource Realty Private Limited,2.0
+1314,393.0,2133,Under Construction,3,T Nagar,MEHTA REAL ESTATE CHENNAI LLP,3.0
+1315,240.0,1484,Ready to move,3,T Nagar,seller,3.0
+1316,245.0,1401,Ready to move,3,T Nagar,other,3.0
+1317,442.0,2601,Under Construction,3,T Nagar,Propsource Realty Private Limited,3.0
+1318,442.0,2601,Under Construction,3,T Nagar,Propsource Realty Private Limited,3.0
+1319,244.0,1574,Ready to move,3,T Nagar,other,2.0
+1321,219.0,1310,Under Construction,3,T Nagar,HomeFirst,3.0
+1323,33.29,1009,Under Construction,2,Thaiyur,other,1.0
+1325,33.42,1013,Under Construction,2,Thaiyur,other,1.0
+1326,25.0,605,Ready to move,1,Thaiyur,seller,1.0
+1327,57.4,1552,Under Construction,2,Thaiyur,Propsource Realty Private Limited,1.0
+1328,64.6,1700,Under Construction,3,Thaiyur,Propsource Realty Private Limited,3.0
+1329,57.4,1552,Under Construction,2,Thaiyur,Propsource Realty Private Limited,1.0
+1330,64.6,1700,Under Construction,3,Thaiyur,Propsource Realty Private Limited,3.0
+1331,39.88,1050,Ready to move,2,Thaiyur,Propsource Realty Private Limited,2.0
+1332,38.02,1001,Under Construction,2,Thaiyur,Dee Star Properties,1.0
+1333,47.33,1246,Under Construction,3,Thaiyur,Dee Star Properties,2.0
+1334,40.3,1061,Under Construction,2,Thaiyur,Dee Star Properties,1.0
+1335,50.45,1328,Under Construction,3,Thaiyur,Dee Star Properties,2.0
+1336,37.3,982,Under Construction,2,Thaiyur,Dee Star Properties,1.0
+1337,50.71,1335,Under Construction,3,Thaiyur,Dee Star Properties,2.0
+1338,18.0,353,Under Construction,1,Thirumazhisai,other,1.0
+1339,31.0,730,Under Construction,2,Thirumazhisai,other,1.0
+1340,36.0,849,Under Construction,2,Thirumazhisai,other,1.0
+1341,16.0,319,Under Construction,1,Thirumazhisai,other,1.0
+1342,15.36,300,Under Construction,1,Thirumazhisai,other,1.0
+1343,25.0,640,Ready to move,1,Thirumazhisai,seller,1.0
+1344,28.0,730,Under Construction,2,Thirumazhisai,ARB HOMES,2.0
+1345,32.0,849,Under Construction,2,Thirumazhisai,ARB HOMES,2.0
+1346,29.56,768,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1347,35.65,926,Under Construction,3,Thirumullaivoyal,Swamaan Developers,2.0
+1348,39.73,1032,Under Construction,3,Thirumullaivoyal,Swamaan Developers,2.0
+1349,33.3,865,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1350,36.53,949,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1351,33.88,880,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1352,29.55,788,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1353,33.11,883,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1354,33.11,883,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1355,29.66,791,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1356,29.66,791,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1357,29.21,779,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1358,29.21,779,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1359,34.53,921,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1360,34.53,921,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1361,31.72,846,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1362,31.72,846,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1363,30.15,804,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1364,30.15,804,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1365,30.15,804,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1366,30.03,801,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1367,30.15,804,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1368,30.03,801,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1369,30.3,808,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1370,30.3,808,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1371,34.68,925,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1372,34.68,925,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1373,31.46,839,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1374,28.98,773,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1375,31.46,839,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1376,28.98,773,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1377,30.97,826,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1378,30.97,826,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1379,31.16,831,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1380,31.16,831,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1381,29.55,788,Under Construction,2,Thirumullaivoyal,Swamaan Developers,1.0
+1382,35.0,900,Ready to move,2,Thirumullaivoyal,seller,2.0
+1383,65.69,1381,Ready to move,3,Tiruvottiyur,Hansa Estates,2.0
+1384,65.64,1380,Ready to move,3,Tiruvottiyur,Hansa Estates,2.0
+1385,53.47,1117,Ready to move,2,Tiruvottiyur,Hansa Estates,1.0
+1386,23.22,540,Ready to move,1,Tiruvottiyur,Hansa Estates,1.0
+1388,25.19,586,Ready to move,1,Tiruvottiyur,Hansa Estates,1.0
+1389,45.75,1064,Ready to move,2,Tiruvottiyur,Hansa Estates,1.0
+1390,25.06,583,Ready to move,1,Tiruvottiyur,Hansa Estates,1.0
+1391,25.02,582,Ready to move,1,Tiruvottiyur,Hansa Estates,1.0
+1392,45.53,1059,Ready to move,2,Tiruvottiyur,Hansa Estates,1.0
+1393,68.38,1439,Ready to move,3,Tiruvottiyur,Hansa Estates,2.0
+1394,68.47,1441,Ready to move,3,Tiruvottiyur,Hansa Estates,2.0
+1395,44.72,1040,Ready to move,2,Tiruvottiyur,Hansa Estates,1.0
+1396,68.75,1447,Ready to move,3,Tiruvottiyur,Hansa Estates,2.0
+1397,67.63,1423,Ready to move,3,Tiruvottiyur,Hansa Estates,2.0
+1398,67.77,1426,Ready to move,3,Tiruvottiyur,Hansa Estates,2.0
+1399,66.81,1405,Ready to move,3,Tiruvottiyur,Hansa Estates,2.0
+1400,54.72,1144,Ready to move,2,Tiruvottiyur,Hansa Estates,1.0
+1401,54.63,1142,Ready to move,2,Tiruvottiyur,Hansa Estates,1.0
+1402,55.19,1154,Ready to move,2,Tiruvottiyur,Hansa Estates,1.0
+1403,43.94,1022,Ready to move,2,Tiruvottiyur,Hansa Estates,1.0
+1404,66.1,1390,Ready to move,3,Tiruvottiyur,Hansa Estates,2.0
+1405,54.09,1130,Ready to move,2,Tiruvottiyur,Hansa Estates,1.0
+1406,23.65,550,Ready to move,1,Tiruvottiyur,Hansa Estates,1.0
+1407,66.3,1394,Ready to move,3,Tiruvottiyur,Hansa Estates,2.0
+1408,23.47,546,Ready to move,1,Tiruvottiyur,Hansa Estates,1.0
+1409,66.35,1395,Ready to move,3,Tiruvottiyur,Hansa Estates,2.0
+1410,23.26,541,Ready to move,1,Tiruvottiyur,Hansa Estates,1.0
+1411,23.39,544,Ready to move,1,Tiruvottiyur,Hansa Estates,1.0
+1412,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1413,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1414,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1415,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1416,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1417,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1418,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1419,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1420,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1421,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1422,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1423,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1424,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1425,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1426,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1427,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1428,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1429,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1430,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1431,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1432,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1433,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1434,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1435,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1436,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1437,70.0,1027,Ready to move,2,Vadanemmeli,seller,2.0
+1439,132.0,1176,Under Construction,2,Vadapalani,Appaswamy Real Estate,1.0
+1440,131.0,1174,Under Construction,2,Vadapalani,Appaswamy Real Estate,1.0
+1442,132.0,1180,Under Construction,2,Vadapalani,Appaswamy Real Estate,1.0
+1447,137.0,1225,Under Construction,2,Vadapalani,Appaswamy Real Estate,1.0
+1448,130.0,1159,Under Construction,2,Vadapalani,Appaswamy Real Estate,1.0
+1451,138.0,1232,Under Construction,2,Vadapalani,Appaswamy Real Estate,1.0
+1454,136.0,1211,Under Construction,2,Vadapalani,Appaswamy Real Estate,1.0
+1456,129.0,1154,Under Construction,2,Vadapalani,Appaswamy Real Estate,1.0
+1459,135.0,1204,Under Construction,2,Vadapalani,Appaswamy Real Estate,1.0
+1461,45.99,920,Under Construction,2,Vanagaram,VNR Homes,1.0
+1462,45.99,920,Under Construction,2,Vanagaram,VNR Homes,1.0
+1463,47.84,957,Under Construction,2,Vanagaram,VNR Homes,1.0
+1464,47.84,957,Under Construction,2,Vanagaram,VNR Homes,1.0
+1465,45.99,920,Under Construction,2,Vanagaram,VNR Homes,1.0
+1466,45.99,920,Under Construction,2,Vanagaram,VNR Homes,1.0
+1467,47.84,957,Under Construction,2,Vanagaram,VNR Homes,1.0
+1468,47.84,957,Under Construction,2,Vanagaram,VNR Homes,1.0
+1469,45.59,912,Under Construction,2,Vanagaram,VNR Homes,1.0
+1470,45.59,912,Under Construction,2,Vanagaram,VNR Homes,1.0
+1471,48.79,976,Under Construction,2,Vanagaram,VNR Homes,1.0
+1472,48.79,976,Under Construction,2,Vanagaram,VNR Homes,1.0
+1473,46.24,925,Under Construction,2,Vanagaram,VNR Homes,1.0
+1474,46.24,925,Under Construction,2,Vanagaram,VNR Homes,1.0
+1475,33.85,594,Under Construction,1,Vanagaram,other,1.0
+1476,33.51,588,Under Construction,1,Vanagaram,other,1.0
+1477,34.02,597,Under Construction,1,Vanagaram,other,1.0
+1478,57.79,1051,Under Construction,2,Vanagaram,Propsource Realty Private Limited,2.0
+1479,34.0,600,Under Construction,2,Vanagaram,Propsource Realty Private Limited,2.0
+1480,57.74,1013,Under Construction,2,Vanagaram,Propsource Realty Private Limited,2.0
+1481,54.64,1051,Under Construction,2,Vanagaram,Propsource Realty Private Limited,2.0
+1482,79.8,1400,Under Construction,3,Vanagaram,Propsource Realty Private Limited,3.0
+1483,77.51,1491,Under Construction,3,Vanagaram,Propsource Realty Private Limited,3.0
+1484,54.64,1051,Under Construction,2,Vanagaram,Propsource Realty Private Limited,2.0
+1485,70.65,1359,Under Construction,3,Vanagaram,Propsource Realty Private Limited,2.0
+1486,85.45,1554,Under Construction,3,Vanagaram,Propsource Realty Private Limited,3.0
+1487,81.3,937,Under Construction,2,Velachery,other,1.0
+1488,81.7,942,Under Construction,2,Velachery,other,1.0
+1489,200.0,1844,Ready to move,3,Velachery,seller,3.0
+1490,76.0,1028,Ready to move,2,Velachery,seller,2.0
+1491,107.0,1306,Ready to move,2,Velachery,seller,2.0
+1492,55.83,859,Ready to move,2,Velachery,seller,2.0
+1493,55.83,859,Ready to move,2,Velachery,seller,2.0
+1494,100.0,1188,Ready to move,3,Velachery,other,2.0
+1495,84.66,996,Ready to move,2,Velachery,other,1.0
+1496,86.0,1010,Ready to move,2,Velachery,other,2.0
+1497,87.4,1469,Ready to move,3,Vengaivasal,other,2.0
+1498,81.57,1371,Ready to move,3,Vengaivasal,other,2.0
+1499,88.29,1484,Ready to move,3,Vengaivasal,other,2.0
+1500,35.75,601,Ready to move,2,Vengaivasal,other,1.0
+1501,19.59,540,Ready to move,1,Veppampattu,seller,2.0
+1505,18.49,520,Ready to move,1,Veppampattu,seller,2.0
+1506,36.0,900,Under Construction,2,Veppampattu,viswaraj,3.0
+1507,26.0,720,Ready to move,2,Veppampattu,viswaraj,2.0
+1508,26.0,720,Ready to move,2,Veppampattu,viswaraj,2.0
+1509,26.0,720,Ready to move,2,Veppampattu,viswaraj,2.0
+1512,22.0,601,Under Construction,1,Veppampattu,viswaraj,2.0
+1513,36.0,902,Ready to move,2,Veppampattu,other,2.0
+1514,40.0,1000,Ready to move,2,Veppampattu,other,2.0
+1515,36.0,900,Ready to move,2,Veppampattu,other,2.0
+1518,30.0,820,Ready to move,2,Veppampattu,viswaraj,2.0
+1519,21.9,600,Under Construction,1,Veppampattu,viswaraj,2.0
+1520,22.0,600,Under Construction,1,Veppampattu,viswaraj,2.0
+1521,16.0,500,Ready to move,1,Veppampattu,other,1.0
+1522,45.0,1200,Under Construction,3,Veppampattu,other,2.0
+1525,27.0,750,Ready to move,2,Veppampattu,viswaraj,2.0
+1526,26.0,720,Ready to move,2,Veppampattu,viswaraj,2.0
+1527,30.0,820,Ready to move,2,Veppampattu,viswaraj,2.0
+1528,22.95,600,Ready to move,1,Veppampattu,Karthick,2.0
+1529,17.9,601,Ready to move,1,Veppampattu,Karthick,2.0
+1530,24.0,600,Ready to move,2,Veppampattu,Karthick,2.0
+1531,18.25,600,Ready to move,1,Veppampattu,Karthick,2.0
+1532,25.9,700,Ready to move,2,Veppampattu,Karthick,2.0
+1533,22.8,600,Ready to move,1,Veppampattu,Karthick,2.0
+1534,26.9,704,Ready to move,2,Veppampattu,Karthick,2.0
+1537,25.99,703,Ready to move,2,Veppampattu,Karthick,2.0
+1538,19.49,520,Ready to move,1,Veppampattu,seller,2.0
+1542,26.5,680,Ready to move,2,Veppampattu,JD Properties,2.0
+1544,22.5,600,Ready to move,1,Veppampattu,JD Properties,2.0
+1545,22.5,630,Ready to move,2,Veppampattu,JD Properties,2.0
+1546,16.5,550,Ready to move,1,Veppampattu,JD Properties,2.0
+1547,22.75,600,Ready to move,1,Veppampattu,JD Properties,2.0
+1548,22.85,600,Ready to move,2,Veppampattu,JD Properties,2.0
+1549,17.84,600,Ready to move,1,Veppampattu,JD Properties,1.0
+1552,27.0,720,Ready to move,2,Veppampattu,seller,2.0
+1555,21.99,600,Ready to move,1,Veppampattu,Karthick,2.0
+1556,22.0,600,Ready to move,1,Veppampattu,Karthick,2.0
+1557,29.0,800,Ready to move,2,Veppampattu,Karthick,2.0
+1559,23.0,594,Ready to move,1,Veppampattu,Karthick,2.0
+1561,28.99,751,Ready to move,2,Veppampattu,Karthick,2.0
+1562,26.99,701,Ready to move,2,Veppampattu,Karthick,2.0
+1564,22.99,609,Ready to move,2,Veppampattu,Karthick,2.0
+1566,26.9,700,Ready to move,2,Veppampattu,JD Properties,2.0
+1567,27.0,700,Ready to move,2,Veppampattu,JD Properties,2.0
+1568,25.8,700,Ready to move,2,Veppampattu,JD Properties,2.0
+1569,26.0,700,Ready to move,2,Veppampattu,JD Properties,2.0
+1570,23.0,600,Ready to move,2,Veppampattu,JD Properties,2.0
+1571,22.0,600,Ready to move,1,Veppampattu,Karthick,2.0
+1573,26.0,700,Ready to move,2,Veppampattu,Karthick,2.0
+1574,27.0,725,Ready to move,2,Veppampattu,Karthick,2.0
+1575,25.85,650,Ready to move,2,Veppampattu,JD Properties,2.0
+1576,25.9,650,Ready to move,2,Veppampattu,JD Properties,2.0
+1577,26.5,700,Ready to move,2,Veppampattu,JD Properties,2.0
+1578,26.0,650,Ready to move,2,Veppampattu,JD Properties,2.0
+1579,18.0,599,Ready to move,1,Veppampattu,Karthick,2.0
+1587,22.25,603,Ready to move,1,Veppampattu,Karthick,2.0
+1590,18.99,611,Ready to move,1,Veppampattu,Karthick,2.0
+1591,26.8,700,Ready to move,2,Veppampattu,JD Properties,2.0
+1592,22.8,600,Ready to move,2,Veppampattu,JD Properties,2.0
+1593,26.75,700,Ready to move,2,Veppampattu,JD Properties,2.0
+1594,19.38,510,Ready to move,1,Veppampattu,Karthick,1.0
+1595,38.0,1000,Ready to move,2,Veppampattu,Karthick,1.0
+1596,22.8,600,Ready to move,1,Veppampattu,Karthick,1.0
+1597,20.9,550,Ready to move,1,Veppampattu,Karthick,1.0
+1598,30.4,800,Ready to move,2,Veppampattu,Karthick,1.0
+1599,24.7,650,Ready to move,2,Veppampattu,Karthick,1.0
+1600,45.6,1200,Ready to move,2,Veppampattu,Karthick,1.0
+1601,23.94,630,Ready to move,1,Veppampattu,Karthick,1.0
+1604,29.5,800,Ready to move,2,Veppampattu,Velan Housing Properties,2.0
+1605,30.0,800,Ready to move,2,Veppampattu,Velan Housing Properties,2.0
+1606,27.5,750,Ready to move,2,Veppampattu,Velan Housing Properties,2.0
+1608,27.5,750,Ready to move,2,Veppampattu,Velan Housing Properties,2.0
+1609,27.5,750,Ready to move,2,Veppampattu,Velan Housing Properties,2.0
+1610,30.0,800,Ready to move,2,Veppampattu,Velan Housing Properties,2.0
+1611,31.5,850,Ready to move,2,Veppampattu,Velan Housing Properties,2.0
+1612,34.0,900,Ready to move,2,Veppampattu,Velan Housing Properties,2.0
+1613,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1614,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1615,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1616,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1617,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1618,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1619,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1620,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1621,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1622,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1623,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1624,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1625,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1626,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1627,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1628,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1629,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1630,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1631,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1632,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1633,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1634,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1635,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1636,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1637,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1638,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1639,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1640,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1641,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1642,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1643,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1644,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1645,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1646,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1647,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1648,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1649,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1650,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1651,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1652,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1653,398.0,2650,Ready to move,5,West Mambalam,seller,5.0
+1654,188.0,2221,Under Construction,3,other,other,3.0
+1655,72.99,936,Ready to move,3,other,other,2.0
+1658,330.0,3670,Ready to move,3,other,other,2.0
+1659,48.61,884,Ready to move,2,other,other,1.0
+1661,188.0,2221,Under Construction,3,other,other,3.0
+1662,83.03,1101,Ready to move,3,other,other,2.0
+1665,440.0,4896,Ready to move,4,other,other,3.0
+1666,188.0,2221,Under Construction,3,other,other,3.0
+1667,188.0,2221,Under Construction,3,other,other,3.0
+1680,64.99,1274,Under Construction,2,other,Casagrand Builder Private Limited,2.0
+1683,65.3,1280,Under Construction,2,other,Casagrand Builder Private Limited,1.0
+1684,67.7,1328,Under Construction,2,other,Casagrand Builder Private Limited,2.0
+1687,12.83,391,Under Construction,1,other,other,1.0
+1688,12.89,394,Under Construction,1,other,other,1.0
+1689,72.2,1313,Ready to move,2,other,other,1.0
+1690,49.05,892,Ready to move,2,other,other,1.0
+1691,64.77,1178,Ready to move,2,other,other,1.0
+1696,550.0,5879,Ready to move,5,other,other,6.0
+1697,550.0,5765,Ready to move,5,other,other,6.0
+1698,70.0,1112,Ready to move,2,other,Urban Tree Infrastructures,1.0
+1699,89.0,1414,Ready to move,3,other,Urban Tree Infrastructures,3.0
+1700,69.0,1092,Ready to move,2,other,Urban Tree Infrastructures,1.0
+1701,85.0,1358,Ready to move,3,other,Urban Tree Infrastructures,2.0
+1703,46.0,900,Ready to move,2,other,seller,2.0
+1704,135.0,1415,Ready to move,3,other,seller,3.0
+1705,370.0,3600,Ready to move,3,other,seller,3.0
+1708,52.5,550,Ready to move,1,other,seller,1.0
+1709,26.0,540,Ready to move,1,other,seller,1.0
+1711,75.0,850,Under Construction,2,other,seller,2.0
+1713,182.0,2640,Ready to move,4,other,seller,4.0
+1714,53.0,850,Under Construction,2,other,seller,2.0
+1715,53.0,850,Under Construction,2,other,seller,2.0
+1716,50.0,905,Ready to move,2,other,seller,2.0
+1717,69.0,1071,Ready to move,2,other,seller,2.0
+1719,41.0,600,Under Construction,2,other,seller,2.0
+1720,60.21,782,Under Construction,1,other,seller,1.0
+1721,45.0,670,Ready to move,2,other,seller,2.0
+1723,40.0,655,Ready to move,2,other,seller,2.0
+1724,100.0,1400,Ready to move,3,other,seller,3.0
+1726,15.0,450,Ready to move,1,other,seller,1.0
+1727,98.0,1253,Ready to move,3,other,seller,2.0
+1728,83.0,997,Ready to move,2,other,seller,1.0
+1729,135.0,1950,Ready to move,3,other,seller,3.0
+1731,160.0,2300,Ready to move,4,other,seller,4.0
+1732,65.0,900,Ready to move,2,other,seller,2.0
+1733,65.0,900,Ready to move,2,other,seller,2.0
+1736,40.0,680,Ready to move,2,other,seller,1.0
+1737,19.5,600,Under Construction,1,other,seller,1.0
+1738,45.0,840,Ready to move,2,other,seller,2.0
+1739,40.7,760,Under Construction,2,other,other,2.0
+1740,47.02,825,Ready to move,2,other,HM Homes,2.0
+1741,47.02,825,Ready to move,2,other,HM Homes,2.0
+1742,47.02,825,Ready to move,2,other,HM Homes,2.0
+1743,47.02,825,Ready to move,2,other,HM Homes,2.0
+1744,79.8,1400,Ready to move,3,other,HM Homes,3.0
+1745,390.0,4000,Ready to move,4,other,other,4.0
+1747,41.7,760,Under Construction,2,other,other,2.0
+1748,40.75,750,Under Construction,2,other,other,2.0
+1751,55.0,1000,Ready to move,2,other,seller,2.0
+1752,35.0,620,Ready to move,1,other,Propsource Realty Private Limited,1.0
+1753,350.0,4361,Ready to move,4,other,seller,4.0
+1755,130.0,1330,Ready to move,2,other,MEHTA REAL ESTATE CHENNAI LLP,3.0
+1757,147.0,1550,Ready to move,3,other,MEHTA REAL ESTATE CHENNAI LLP,3.0
+1758,115.0,1150,Ready to move,2,other,MEHTA REAL ESTATE CHENNAI LLP,2.0
+1759,110.0,1310,Ready to move,2,other,MEHTA REAL ESTATE CHENNAI LLP,2.0
+1760,23.13,503,Under Construction,1,other,Sandhya,1.0
+1764,20.56,447,Under Construction,1,other,Sandhya,1.0
+1765,57.0,1075,Ready to move,2,other,other,2.0
+1771,115.0,1238,Ready to move,3,other,seller,3.0
+1772,40.0,652,Ready to move,2,other,seller,2.0
+1774,130.0,2020,Ready to move,3,other,seller,2.0
+1775,62.0,950,Ready to move,3,other,seller,2.0
+1776,52.51,938,Under Construction,2,other,other,1.0
+1777,67.07,1198,Under Construction,3,other,other,2.0
+1779,18.0,500,Under Construction,1,other,seller,1.0
+1784,28.0,850,Ready to move,1,other,other,1.0
+1785,25.5,700,Ready to move,1,other,other,1.0
+1786,54.0,950,Under Construction,2,other,other,2.0
+1788,90.0,1390,Ready to move,3,other,seller,3.0
+1789,76.5,1150,Ready to move,2,other,seller,2.0
+1790,150.0,1750,Ready to move,3,other,other,2.0
+1791,42.0,738,Ready to move,2,other,seller,2.0
+1792,220.0,3000,Ready to move,3,other,seller,3.0
+1793,170.0,2200,Ready to move,4,other,smartassetsindia,3.0
+1794,164.0,2000,Ready to move,4,other,smartassetsindia,3.0
+1795,165.0,2210,Ready to move,4,other,smartassetsindia,3.0
+1796,23.25,611,Ready to move,1,other,Karthick,2.0
+1797,53.0,1022,Ready to move,2,other,24K Realtors,2.0
+1799,90.0,1000,Ready to move,3,other,other,3.0
+1800,47.0,509,Ready to move,1,other,Prabha Homes,1.0
+1801,52.9,804,Ready to move,2,other,Prabha Homes,2.0
+1802,82.0,960,Ready to move,2,other,Prabha Homes,2.0
+1803,77.8,890,Ready to move,2,other,Prabha Homes,2.0
+1804,56.0,1000,Ready to move,2,other,other,2.0
+1805,46.97,854,Ready to move,2,other,other,1.0
+1806,52.63,957,Ready to move,2,other,other,1.0
+1807,51.7,940,Ready to move,2,other,other,2.0
+1808,48.07,874,Ready to move,2,other,other,1.0
+1809,47.08,856,Ready to move,2,other,other,1.0
+1810,53.79,978,Ready to move,2,other,other,1.0
+1811,54.78,996,Ready to move,2,other,other,1.0
+1812,150.0,1750,Ready to move,2,other,other,1.0
+1813,36.36,627,Ready to move,1,other,other,1.0
+1814,55.21,952,Ready to move,2,other,other,2.0
+1815,64.32,960,Ready to move,2,other,other,2.0
+1816,138.0,1340,Under Construction,3,other,Selvakumar,2.0
+1817,121.0,1175,Under Construction,3,other,Selvakumar,2.0
+1818,141.0,1375,Under Construction,3,other,Selvakumar,2.0
+1819,159.0,1550,Under Construction,3,other,Selvakumar,2.0
+1820,160.0,1555,Under Construction,3,other,Selvakumar,2.0
+1821,157.0,1525,Under Construction,3,other,Selvakumar,2.0
+1822,146.0,1425,Under Construction,3,other,Selvakumar,2.0
+1823,160.0,1560,Under Construction,3,other,Selvakumar,2.0
+1830,58.7,997,Ready to move,2,other,other,1.0
+1832,56.0,920,Ready to move,2,other,seller,2.0
+1833,49.34,771,Ready to move,2,other,other,1.0
+1834,45.37,709,Ready to move,2,other,other,1.0
+1835,100.0,1343,Ready to move,2,other,other,1.0
+1836,49.5,947,Ready to move,2,other,seller,2.0
+1837,59.5,700,Ready to move,2,other,other,2.0
+1838,59.5,700,Ready to move,2,other,other,2.0
+1839,59.0,759,Ready to move,2,other,other,2.0
+1840,39.0,750,Ready to move,2,other,seller,2.0
+1841,39.0,750,Ready to move,2,other,seller,2.0
+1842,78.6,779,Under Construction,2,other,Prabha Homes,2.0
+1843,42.0,520,Ready to move,1,other,Prabha Homes,1.0
+1844,82.0,1000,Ready to move,2,other,Prabha Homes,2.0
+1845,37.0,677,Ready to move,2,other,seller,1.0
+1846,35.0,620,Ready to move,1,other,other,1.0
+1847,105.0,1385,Ready to move,3,other,Ram,2.0
+1848,105.0,1385,Ready to move,3,other,Ram,3.0
+1850,63.62,823,Under Construction,2,other,seller,2.0
+1851,63.62,823,Under Construction,2,other,seller,2.0
+1852,64.9,823,Under Construction,2,other,seller,2.0
+1853,79.0,894,Ready to move,2,other,other,2.0
+1854,49.77,905,Under Construction,2,other,other,1.0
+1855,49.77,905,Under Construction,2,other,other,1.0
+1857,52.0,780,Ready to move,2,other,Prabha Homes,2.0
+1860,16.71,490,Ready to move,1,other,Propsource Realty Private Limited,1.0
+1862,35.0,620,Ready to move,1,other,Propsource Realty Private Limited,1.0
+1864,35.0,620,Ready to move,1,other,Propsource Realty Private Limited,1.0
+1867,41.58,990,Ready to move,1,other,Propsource Realty Private Limited,2.0
+1868,72.63,1243,Ready to move,1,other,Propsource Realty Private Limited,1.0
+1869,36.0,800,Under Construction,1,other,Propsource Realty Private Limited,2.0
+1870,35.0,620,Ready to move,1,other,Propsource Realty Private Limited,1.0
+1877,260.0,3485,Ready to move,5,other,seller,5.0
+1879,22.0,420,Ready to move,1,other,seller,2.0
+1884,59.0,900,Ready to move,3,other,seller,2.0
+1885,42.5,818,Under Construction,2,other,seller,2.0
+1886,42.5,818,Under Construction,2,other,seller,2.0
+1887,48.5,818,Under Construction,2,other,seller,2.0
+1888,57.5,922,Ready to move,2,other,seller,2.0
+1896,87.0,1015,Under Construction,2,other,seller,2.0
+1898,54.05,932,Ready to move,2,other,MC Foundation,2.0
+1899,51.96,896,Ready to move,2,other,MC Foundation,2.0
+1900,58.45,759,Ready to move,2,other,other,2.0
+1901,29.0,650,Ready to move,1,other,Propsource Realty Private Limited,1.0
+1902,430.0,6700,Ready to move,4,other,HomeFirst,4.0
+1903,240.0,3700,Ready to move,3,other,HomeFirst,3.0
+1918,120.0,1400,Ready to move,3,other,MC Foundation,3.0
+1919,110.0,1300,Ready to move,3,other,MC Foundation,3.0
+1920,108.0,1065,Ready to move,2,other,seller,2.0
+1924,53.0,1000,Ready to move,2,other,Elite nisha,3.0
+1926,36.0,900,Ready to move,1,other,Elite nisha,2.0
+1927,54.0,1050,Ready to move,2,other,Elite nisha,2.0
+1932,48.0,1126,Ready to move,1,other,Elite nisha,2.0
+1933,78.0,954,Ready to move,2,other,Prabha Homes,2.0
+1934,53.0,804,Ready to move,2,other,Prabha Homes,2.0
+1935,42.0,509,Ready to move,1,other,Prabha Homes,1.0
+1936,76.5,1275,Ready to move,3,other,MC Foundation,3.0
+1937,69.96,1166,Ready to move,3,other,MC Foundation,3.0
+1938,60.0,1000,Ready to move,2,other,MC Foundation,2.0
+1939,42.0,700,Ready to move,1,other,MC Foundation,1.0
+1940,49.74,829,Ready to move,2,other,MC Foundation,2.0
+1941,124.0,1537,Ready to move,3,other,Luxclusive Homes,2.0
+1942,117.0,1455,Ready to move,3,other,Luxclusive Homes,3.0
+1943,123.0,1530,Ready to move,3,other,Luxclusive Homes,3.0
+1947,51.06,690,Ready to move,2,other,MC Foundation,2.0
+1948,91.2,1200,Ready to move,3,other,MC Foundation,3.0
+1949,55.5,750,Ready to move,2,other,MC Foundation,2.0
+1950,88.1,881,Ready to move,2,other,MC Foundation,2.0
+1951,87.0,870,Ready to move,2,other,MC Foundation,2.0
+1956,29.0,576,Ready to move,1,other,ARB HOMES,1.0
+1958,20.0,570,Under Construction,1,other,ARB HOMES,1.0
+1960,48.0,832,Ready to move,2,other,ARB HOMES,2.0
+1961,23.0,620,Under Construction,1,other,ARB HOMES,1.0
+1965,29.5,623,Ready to move,1,other,other,1.0
+1979,49.5,900,Under Construction,2,other,other,1.0
+1982,51.15,930,Under Construction,2,other,other,1.0
+1983,65.7,1096,Under Construction,3,other,24K Realtors,2.0
+1984,62.0,1020,Under Construction,2,other,24K Realtors,2.0
+1985,45.0,700,Under Construction,2,other,other,2.0
+1986,45.0,800,Under Construction,2,other,other,2.0
+1987,170.0,1750,Ready to move,4,other,other,3.0
+1995,108.0,1065,Ready to move,2,other,seller,2.0
+1996,108.0,1065,Ready to move,2,other,seller,2.0
+2002,42.0,800,Under Construction,2,other,other,2.0
+2003,95.0,1250,Ready to move,3,other,other,3.0
+2004,95.0,1800,Ready to move,3,tambaram west,MC Foundation,3.0
+2005,90.0,1700,Ready to move,3,tambaram west,MC Foundation,3.0
+2006,85.0,1621,Ready to move,3,tambaram west,MC Foundation,3.0
+2007,66.08,1180,Ready to move,3,tambaram west,MC Foundation,3.0
+2008,57.12,1020,Ready to move,2,tambaram west,MC Foundation,2.0
+2009,52.08,930,Ready to move,2,tambaram west,MC Foundation,2.0
+2010,50.4,900,Ready to move,2,tambaram west,MC Foundation,2.0

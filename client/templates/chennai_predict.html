@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+{% block body %}
+<div class="container" >
+
+    <form action="/client/findchennaiPrice/" method="post">
+        {% csrf_token %}
+        <div class="form-group mt-3">
+            <label for="area">Enter Area (Sqft)</label>
+            <input type="text" class="form-control" id="area" name="area" placeholder="300" required>
+        </div>
+        <div class="form-group mt-3">
+            <label for="Location">Select Location</label>
+            <select class="form-control" id="Location" name="Location" required>
+                <option selected>Choose...</option>
+                {% for i in msg %}
+                  <option value="{{i}}">{{i}}</option>
+                {% endfor %}
+            </select>
+        </div>
+     
+        <div class="form-group mt-3">
+            <label for="BHK">Select BHK</label>
+            <select class="form-control" id="BHK" name="BHK" required>
+                <option selected>Choose...</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+        </div>
+        <div class="form-group mt-3">
+            <label for="Bathroom">Select Bathroom</label>
+            <select class="form-control" id="Bathroom" name="Bathroom">
+                <option selected>Choose...</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+        </div>
+       
+        <div class="text-center">
+        <button type="submit"  style="align-self: center;" class="btn btn-primary ">Submit</button>
+        </div>
+    </form>
+    <h1 style="color:red;text-align: center;"> {{price}}</h1>
+</div>
+{% endblock %}
